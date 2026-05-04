@@ -858,7 +858,7 @@
           <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="90" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">Configuration</text>
         </g>
       </g>
-      <g id="prop.model_tugas3/Rangkaian Soal A/Voltage Sensor I1A" class="proptable" display="none" pointer-events="none" extent_Height="142" extent_Width="261.25" preferred_X="385" preferred_Y="295">
+      <g id="prop.model_tugas3/Rangkaian Soal A/Current Sensor i1a" class="proptable" display="none" pointer-events="none" extent_Height="142" extent_Width="261.25" preferred_X="385" preferred_Y="295">
         <rect x="0" y="0" width="261.25" height="142" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
         <text x="3" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">ComponentPath</text>
         <text x="111.25" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">foundation.electrical.sensors.current</text>
@@ -887,8 +887,8 @@
         <text x="111.25" y="138" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[0 0]</text>
         <rect x="0" y="0" width="261.25" height="142" rx="4" ry="4" stroke="rgb(0%,0%,0%)" fill="none"/>
       </g>
-      <g id="model_tugas3/Rangkaian Soal A/Voltage Sensor I1A" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
-        <title id="title.model_tugas3/Rangkaian Soal A/Voltage Sensor I1A">Voltage Sensor I1A</title>
+      <g id="model_tugas3/Rangkaian Soal A/Current Sensor i1a" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
+        <title id="title.model_tugas3/Rangkaian Soal A/Current Sensor i1a">Current Sensor i1a</title>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(-1,0,0,1,340,305)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAChJREFUKJFjYBj6gBFK/8chjgGYYIzNmzczbN68maANTARVUOqk4QAA47IGOfRGCOcAAAAASUVORK5CYII="/>
         </g>
@@ -1142,13 +1142,13 @@
           <path vector-effect="none" fill-rule="evenodd" d="M0,0 L40,0 L40,40 L0,40 L0,0z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,360,332)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M-40.125,0 L40.125,0 L40.125,14 L-40.125,14 L-40.125,0z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M-38.375,0 L38.375,0 L38.375,14 L-38.375,14 L-38.375,0z "/>
         </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,319.875,332)" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">
-          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="42" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">Voltage Sensor I1A</text>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,321.625,332)" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">
+          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="42" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">Current Sensor i1a</text>
         </g>
       </g>
-      <g id="prop.model_tugas3/Rangkaian Soal A/PS-Simulink Converter" class="proptable" display="none" pointer-events="none" extent_Height="114" extent_Width="179.75" preferred_X="505" preferred_Y="85">
+      <g id="prop.model_tugas3/Rangkaian Soal A/PS-Simulink Converter i1a" class="proptable" display="none" pointer-events="none" extent_Height="114" extent_Width="179.75" preferred_X="505" preferred_Y="85">
         <rect x="0" y="0" width="179.75" height="114" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
         <text x="3" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">PhysicalDomain</text>
         <text x="75" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">network_engine_domain</text>
@@ -1172,8 +1172,8 @@
         <text x="75" y="110" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">off</text>
         <rect x="0" y="0" width="179.75" height="114" rx="4" ry="4" stroke="rgb(0%,0%,0%)" fill="none"/>
       </g>
-      <g id="model_tugas3/Rangkaian Soal A/PS-Simulink Converter" linkid="model_tugas3/Rangkaian Soal A/PS-Simulink Converter" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
-        <title id="title.model_tugas3/Rangkaian Soal A/PS-Simulink Converter">PS-Simulink Converter</title>
+      <g id="model_tugas3/Rangkaian Soal A/PS-Simulink Converter i1a" linkid="model_tugas3/Rangkaian Soal A/PS-Simulink Converter i1a" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
+        <title id="title.model_tugas3/Rangkaian Soal A/PS-Simulink Converter i1a">PS-Simulink Converter i1a</title>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(-1,0,0,1,470,90)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAHNJREFUKJG1kbsNwCAMBS0vgFs+w7ApCDZJHbZxhwRpQqKASGjySutO9pMBfopFxG0JJKJkjGEAqJ+g1ppjjDXnXGfCALb0giWipJTiEMID7AVsxjmEUspKt3uTEGKXUrL3/vWkqeicey09FVeFS1x93JADlZpjclZzvtIAAAAASUVORK5CYII="/>
         </g>
@@ -1199,14 +1199,14 @@
           <path vector-effect="none" fill-rule="evenodd" d="M0,0 L30,0 L30,30 L0,30 L0,0z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,485,112)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M-26.75,0 L26.75,0 L26.75,26 L-26.75,26 L-26.75,0z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M-28,0 L28,0 L28,26 L-28,26 L-28,0z "/>
         </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,458.25,112)" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">
-          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="42" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">PS-Simulink</text>
-          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="28.5" y="90" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">Converter</text>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,457,112)" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">
+          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="9" y="42" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">PS-Simulink</text>
+          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="90" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">Converter i1a</text>
         </g>
       </g>
-      <g id="prop.model_tugas3/Rangkaian Soal A/Voltage Sensor I2A" class="proptable" display="none" pointer-events="none" extent_Height="142" extent_Width="261.25" preferred_X="665" preferred_Y="170">
+      <g id="prop.model_tugas3/Rangkaian Soal A/Current Sensor i2a" class="proptable" display="none" pointer-events="none" extent_Height="142" extent_Width="261.25" preferred_X="665" preferred_Y="170">
         <rect x="0" y="0" width="261.25" height="142" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
         <text x="3" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">ComponentPath</text>
         <text x="111.25" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">foundation.electrical.sensors.current</text>
@@ -1235,8 +1235,8 @@
         <text x="111.25" y="138" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[0 0]</text>
         <rect x="0" y="0" width="261.25" height="142" rx="4" ry="4" stroke="rgb(0%,0%,0%)" fill="none"/>
       </g>
-      <g id="model_tugas3/Rangkaian Soal A/Voltage Sensor I2A" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
-        <title id="title.model_tugas3/Rangkaian Soal A/Voltage Sensor I2A">Voltage Sensor I2A</title>
+      <g id="model_tugas3/Rangkaian Soal A/Current Sensor i2a" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
+        <title id="title.model_tugas3/Rangkaian Soal A/Current Sensor i2a">Current Sensor i2a</title>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(-1,0,0,1,620,180)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAChJREFUKJFjYBj6gBFK/8chjgGYYIzNmzczbN68maANTARVUOqk4QAA47IGOfRGCOcAAAAASUVORK5CYII="/>
         </g>
@@ -1490,13 +1490,13 @@
           <path vector-effect="none" fill-rule="evenodd" d="M0,0 L40,0 L40,40 L0,40 L0,0z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,640,207)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M-40.125,0 L40.125,0 L40.125,14 L-40.125,14 L-40.125,0z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M-38.375,0 L38.375,0 L38.375,14 L-38.375,14 L-38.375,0z "/>
         </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,599.875,207)" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">
-          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="42" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">Voltage Sensor I2A</text>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,601.625,207)" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">
+          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="42" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">Current Sensor i2a</text>
         </g>
       </g>
-      <g id="prop.model_tugas3/Rangkaian Soal A/PS-Simulink Converter1" class="proptable" display="none" pointer-events="none" extent_Height="114" extent_Width="179.75" preferred_X="770" preferred_Y="85">
+      <g id="prop.model_tugas3/Rangkaian Soal A/PS-Simulink Converter i2a" class="proptable" display="none" pointer-events="none" extent_Height="114" extent_Width="179.75" preferred_X="770" preferred_Y="85">
         <rect x="0" y="0" width="179.75" height="114" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
         <text x="3" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">PhysicalDomain</text>
         <text x="75" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">network_engine_domain</text>
@@ -1520,8 +1520,8 @@
         <text x="75" y="110" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">off</text>
         <rect x="0" y="0" width="179.75" height="114" rx="4" ry="4" stroke="rgb(0%,0%,0%)" fill="none"/>
       </g>
-      <g id="model_tugas3/Rangkaian Soal A/PS-Simulink Converter1" linkid="model_tugas3/Rangkaian Soal A/PS-Simulink Converter1" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
-        <title id="title.model_tugas3/Rangkaian Soal A/PS-Simulink Converter1">PS-Simulink Converter1</title>
+      <g id="model_tugas3/Rangkaian Soal A/PS-Simulink Converter i2a" linkid="model_tugas3/Rangkaian Soal A/PS-Simulink Converter i2a" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
+        <title id="title.model_tugas3/Rangkaian Soal A/PS-Simulink Converter i2a">PS-Simulink Converter i2a</title>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(-1,0,0,1,735,90)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAHNJREFUKJG1kbsNwCAMBS0vgFs+w7ApCDZJHbZxhwRpQqKASGjySutO9pMBfopFxG0JJKJkjGEAqJ+g1ppjjDXnXGfCALb0giWipJTiEMID7AVsxjmEUspKt3uTEGKXUrL3/vWkqeicey09FVeFS1x93JADlZpjclZzvtIAAAAASUVORK5CYII="/>
         </g>
@@ -1547,14 +1547,14 @@
           <path vector-effect="none" fill-rule="evenodd" d="M0,0 L30,0 L30,30 L0,30 L0,0z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,750,112)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M-26.75,0 L26.75,0 L26.75,26 L-26.75,26 L-26.75,0z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M-28,0 L28,0 L28,26 L-28,26 L-28,0z "/>
         </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,723.25,112)" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">
-          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="42" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">PS-Simulink</text>
-          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="18.5" y="90" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">Converter1</text>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,722,112)" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">
+          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="9" y="42" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">PS-Simulink</text>
+          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="90" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">Converter i2a</text>
         </g>
       </g>
-      <g id="prop.model_tugas3/Rangkaian Soal A/Voltage Sensor I4A" class="proptable" display="none" pointer-events="none" extent_Height="142" extent_Width="261.25" preferred_X="645" preferred_Y="440">
+      <g id="prop.model_tugas3/Rangkaian Soal A/Current Sensor i4a" class="proptable" display="none" pointer-events="none" extent_Height="142" extent_Width="261.25" preferred_X="645" preferred_Y="440">
         <rect x="0" y="0" width="261.25" height="142" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
         <text x="3" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">ComponentPath</text>
         <text x="111.25" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">foundation.electrical.sensors.current</text>
@@ -1583,8 +1583,8 @@
         <text x="111.25" y="138" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[0 0]</text>
         <rect x="0" y="0" width="261.25" height="142" rx="4" ry="4" stroke="rgb(0%,0%,0%)" fill="none"/>
       </g>
-      <g id="model_tugas3/Rangkaian Soal A/Voltage Sensor I4A" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
-        <title id="title.model_tugas3/Rangkaian Soal A/Voltage Sensor I4A">Voltage Sensor I4A</title>
+      <g id="model_tugas3/Rangkaian Soal A/Current Sensor i4a" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
+        <title id="title.model_tugas3/Rangkaian Soal A/Current Sensor i4a">Current Sensor i4a</title>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,640,460)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAChJREFUKJFjYBj6gBFK/8chjgGYYIzNmzczbN68maANTARVUOqk4QAA47IGOfRGCOcAAAAASUVORK5CYII="/>
         </g>
@@ -1838,13 +1838,13 @@
           <path vector-effect="none" fill-rule="evenodd" d="M0,0 L40,0 L40,40 L0,40 L0,0z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,620,477)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M-40.125,0 L40.125,0 L40.125,14 L-40.125,14 L-40.125,0z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M-38.375,0 L38.375,0 L38.375,14 L-38.375,14 L-38.375,0z "/>
         </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,579.875,477)" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">
-          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="42" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">Voltage Sensor I4A</text>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,581.625,477)" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">
+          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="42" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">Current Sensor i4a</text>
         </g>
       </g>
-      <g id="prop.model_tugas3/Rangkaian Soal A/PS-Simulink Converter2" class="proptable" display="none" pointer-events="none" extent_Height="114" extent_Width="179.75" preferred_X="725" preferred_Y="385">
+      <g id="prop.model_tugas3/Rangkaian Soal A/PS-Simulink Converter i4a" class="proptable" display="none" pointer-events="none" extent_Height="114" extent_Width="179.75" preferred_X="725" preferred_Y="385">
         <rect x="0" y="0" width="179.75" height="114" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
         <text x="3" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">PhysicalDomain</text>
         <text x="75" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">network_engine_domain</text>
@@ -1868,8 +1868,8 @@
         <text x="75" y="110" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">off</text>
         <rect x="0" y="0" width="179.75" height="114" rx="4" ry="4" stroke="rgb(0%,0%,0%)" fill="none"/>
       </g>
-      <g id="model_tugas3/Rangkaian Soal A/PS-Simulink Converter2" linkid="model_tugas3/Rangkaian Soal A/PS-Simulink Converter2" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
-        <title id="title.model_tugas3/Rangkaian Soal A/PS-Simulink Converter2">PS-Simulink Converter2</title>
+      <g id="model_tugas3/Rangkaian Soal A/PS-Simulink Converter i4a" linkid="model_tugas3/Rangkaian Soal A/PS-Simulink Converter i4a" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
+        <title id="title.model_tugas3/Rangkaian Soal A/PS-Simulink Converter i4a">PS-Simulink Converter i4a</title>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(-1,0,0,1,690,390)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAHNJREFUKJG1kbsNwCAMBS0vgFs+w7ApCDZJHbZxhwRpQqKASGjySutO9pMBfopFxG0JJKJkjGEAqJ+g1ppjjDXnXGfCALb0giWipJTiEMID7AVsxjmEUspKt3uTEGKXUrL3/vWkqeicey09FVeFS1x93JADlZpjclZzvtIAAAAASUVORK5CYII="/>
         </g>
@@ -1895,11 +1895,11 @@
           <path vector-effect="none" fill-rule="evenodd" d="M0,0 L30,0 L30,30 L0,30 L0,0z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,705,412)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M-26.75,0 L26.75,0 L26.75,26 L-26.75,26 L-26.75,0z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M-28,0 L28,0 L28,26 L-28,26 L-28,0z "/>
         </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,678.25,412)" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">
-          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="42" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">PS-Simulink</text>
-          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="18.5" y="90" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">Converter2</text>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,677,412)" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">
+          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="9" y="42" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">PS-Simulink</text>
+          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="90" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">Converter i4a</text>
         </g>
       </g>
       <g id="prop.model_tugas3/Rangkaian Soal A/Arus_I1(a)" class="proptable" display="none" pointer-events="none" extent_Height="86" extent_Width="110.5" preferred_X="635" preferred_Y="50">
@@ -2036,12 +2036,12 @@
           <path vector-effect="none" fill-rule="evenodd" d="M0,1 L88,1 L88,29 L0,29 L0,1z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,570,105)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M0,6 C0,2.68629 2.68629,0 6,0 L59.25,0 C62.5637,0 65.25,2.68629 65.25,6 L65.25,15 C65.25,18.3137 62.5637,21 59.25,21 L6,21 C2.68629,21 0,18.3137 0,15 L0,6z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M0,6 C0,2.68629 2.68629,0 6,0 L70.25,0 C73.5637,0 76.25,2.68629 76.25,6 L76.25,15 C76.25,18.3137 73.5637,21 70.25,21 L6,21 C2.68629,21 0,18.3137 0,15 L0,6z "/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,573,108)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M0,0 L57,0 L57,15 L0,15 L0,0z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M0,0 L68,0 L68,15 L0,15 L0,0z "/>
         </g>
-        <g fill="none" stroke="none" transform="matrix(1,0,0,1,630,115.5)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+        <g fill="none" stroke="none" transform="matrix(1,0,0,1,641,115.5)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M0.25,-7.5 L2.25,-7.5 L2.25,7.5 L0.25,7.5 L0.25,-7.5z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,615,137)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
@@ -2074,12 +2074,12 @@
           <path vector-effect="none" fill-rule="evenodd" d="M0,1 L88,1 L88,29 L0,29 L0,1z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,825,115)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M0,6 C0,2.68629 2.68629,0 6,0 L59.25,0 C62.5637,0 65.25,2.68629 65.25,6 L65.25,15 C65.25,18.3137 62.5637,21 59.25,21 L6,21 C2.68629,21 0,18.3137 0,15 L0,6z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M0,6 C0,2.68629 2.68629,0 6,0 L70.25,0 C73.5637,0 76.25,2.68629 76.25,6 L76.25,15 C76.25,18.3137 73.5637,21 70.25,21 L6,21 C2.68629,21 0,18.3137 0,15 L0,6z "/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,828,118)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M0,0 L57,0 L57,15 L0,15 L0,0z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M0,0 L68,0 L68,15 L0,15 L0,0z "/>
         </g>
-        <g fill="none" stroke="none" transform="matrix(1,0,0,1,885,125.5)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+        <g fill="none" stroke="none" transform="matrix(1,0,0,1,896,125.5)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M0.25,-7.5 L2.25,-7.5 L2.25,7.5 L0.25,7.5 L0.25,-7.5z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,870,147)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
@@ -2112,12 +2112,12 @@
           <path vector-effect="none" fill-rule="evenodd" d="M0,1 L88,1 L88,29 L0,29 L0,1z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,780,405)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M0,6 C0,2.68629 2.68629,0 6,0 L59.25,0 C62.5637,0 65.25,2.68629 65.25,6 L65.25,15 C65.25,18.3137 62.5637,21 59.25,21 L6,21 C2.68629,21 0,18.3137 0,15 L0,6z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M0,6 C0,2.68629 2.68629,0 6,0 L70.25,0 C73.5637,0 76.25,2.68629 76.25,6 L76.25,15 C76.25,18.3137 73.5637,21 70.25,21 L6,21 C2.68629,21 0,18.3137 0,15 L0,6z "/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,783,408)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M0,0 L57,0 L57,15 L0,15 L0,0z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M0,0 L68,0 L68,15 L0,15 L0,0z "/>
         </g>
-        <g fill="none" stroke="none" transform="matrix(1,0,0,1,840,415.5)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+        <g fill="none" stroke="none" transform="matrix(1,0,0,1,851,415.5)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M0.25,-7.5 L2.25,-7.5 L2.25,7.5 L0.25,7.5 L0.25,-7.5z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,825,437)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
@@ -2414,7 +2414,7 @@
           <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="41" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">Voltage Sensor V1A</text>
         </g>
       </g>
-      <g id="prop.model_tugas3/Rangkaian Soal A/PS-Simulink Converter6" class="proptable" display="none" pointer-events="none" extent_Height="114" extent_Width="179.75" preferred_X="360" preferred_Y="500">
+      <g id="prop.model_tugas3/Rangkaian Soal A/PS-Simulink Converter v1a" class="proptable" display="none" pointer-events="none" extent_Height="114" extent_Width="179.75" preferred_X="360" preferred_Y="500">
         <rect x="0" y="0" width="179.75" height="114" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
         <text x="3" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">PhysicalDomain</text>
         <text x="75" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">network_engine_domain</text>
@@ -2438,8 +2438,8 @@
         <text x="75" y="110" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">off</text>
         <rect x="0" y="0" width="179.75" height="114" rx="4" ry="4" stroke="rgb(0%,0%,0%)" fill="none"/>
       </g>
-      <g id="model_tugas3/Rangkaian Soal A/PS-Simulink Converter6" linkid="model_tugas3/Rangkaian Soal A/PS-Simulink Converter6" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
-        <title id="title.model_tugas3/Rangkaian Soal A/PS-Simulink Converter6">PS-Simulink Converter6</title>
+      <g id="model_tugas3/Rangkaian Soal A/PS-Simulink Converter v1a" linkid="model_tugas3/Rangkaian Soal A/PS-Simulink Converter v1a" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
+        <title id="title.model_tugas3/Rangkaian Soal A/PS-Simulink Converter v1a">PS-Simulink Converter v1a</title>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(-1,0,0,1,325,505)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAHNJREFUKJG1kbsNwCAMBS0vgFs+w7ApCDZJHbZxhwRpQqKASGjySutO9pMBfopFxG0JJKJkjGEAqJ+g1ppjjDXnXGfCALb0giWipJTiEMID7AVsxjmEUspKt3uTEGKXUrL3/vWkqeicey09FVeFS1x93JADlZpjclZzvtIAAAAASUVORK5CYII="/>
         </g>
@@ -2465,14 +2465,14 @@
           <path vector-effect="none" fill-rule="evenodd" d="M0,0 L30,0 L30,30 L0,30 L0,0z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,340,527)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M-28.125,0 L28.125,0 L28.125,28 L-28.125,28 L-28.125,0z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M-31.875,0 L31.875,0 L31.875,28 L-31.875,28 L-31.875,0z "/>
         </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,311.875,527)" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">
-          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="41" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">PS-Simulink</text>
-          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="93" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">Converter6</text>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,308.125,527)" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">
+          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="19" y="41" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">PS-Simulink</text>
+          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="93" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">Converter v1a</text>
         </g>
       </g>
-      <g id="prop.model_tugas3/Rangkaian Soal A/To Workspace V1A" class="proptable" display="none" pointer-events="none" extent_Height="86" extent_Width="120" preferred_X="465" preferred_Y="470">
+      <g id="prop.model_tugas3/Rangkaian Soal A/V1A" class="proptable" display="none" pointer-events="none" extent_Height="86" extent_Width="120" preferred_X="465" preferred_Y="470">
         <rect x="0" y="0" width="120" height="86" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
         <text x="3" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">VariableName</text>
         <text x="68.5" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">v1_soalA</text>
@@ -2491,8 +2491,8 @@
         <text x="68.5" y="82" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">off</text>
         <rect x="0" y="0" width="120" height="86" rx="4" ry="4" stroke="rgb(0%,0%,0%)" fill="none"/>
       </g>
-      <g id="model_tugas3/Rangkaian Soal A/To Workspace V1A" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
-        <title id="title.model_tugas3/Rangkaian Soal A/To Workspace V1A">To Workspace V1A</title>
+      <g id="model_tugas3/Rangkaian Soal A/V1A" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
+        <title id="title.model_tugas3/Rangkaian Soal A/V1A">V1A</title>
         <g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,400,465)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M0,0 L60,0 L60,30 L0,30 L0,0z "/>
         </g>
@@ -2503,10 +2503,10 @@
           <path vector-effect="none" fill-rule="evenodd" d="M0,0 L60,0 L60,30 L0,30 L0,0z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,430,497)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M-44,0 L44,0 L44,15 L-44,15 L-44,0z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M-10.75,0 L10.75,0 L10.75,15 L-10.75,15 L-10.75,0z "/>
         </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,386,497)" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">
-          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="41" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">To Workspace V1A</text>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,419.25,497)" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">
+          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="41" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">V1A</text>
         </g>
       </g>
       <g id="prop.model_tugas3/Rangkaian Soal A/Voltage Sensor V2A" class="proptable" display="none" pointer-events="none" extent_Height="142" extent_Width="262.25" preferred_X="820" preferred_Y="285">
@@ -2796,7 +2796,7 @@
           <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="41" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">Voltage Sensor V2A</text>
         </g>
       </g>
-      <g id="prop.model_tugas3/Rangkaian Soal A/PS-Simulink Converter7" class="proptable" display="none" pointer-events="none" extent_Height="114" extent_Width="179.75" preferred_X="920" preferred_Y="325">
+      <g id="prop.model_tugas3/Rangkaian Soal A/PS-Simulink Converter v2a" class="proptable" display="none" pointer-events="none" extent_Height="114" extent_Width="179.75" preferred_X="920" preferred_Y="325">
         <rect x="0" y="0" width="179.75" height="114" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
         <text x="3" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">PhysicalDomain</text>
         <text x="75" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">network_engine_domain</text>
@@ -2820,8 +2820,8 @@
         <text x="75" y="110" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">off</text>
         <rect x="0" y="0" width="179.75" height="114" rx="4" ry="4" stroke="rgb(0%,0%,0%)" fill="none"/>
       </g>
-      <g id="model_tugas3/Rangkaian Soal A/PS-Simulink Converter7" linkid="model_tugas3/Rangkaian Soal A/PS-Simulink Converter7" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
-        <title id="title.model_tugas3/Rangkaian Soal A/PS-Simulink Converter7">PS-Simulink Converter7</title>
+      <g id="model_tugas3/Rangkaian Soal A/PS-Simulink Converter v2a" linkid="model_tugas3/Rangkaian Soal A/PS-Simulink Converter v2a" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
+        <title id="title.model_tugas3/Rangkaian Soal A/PS-Simulink Converter v2a">PS-Simulink Converter v2a</title>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(-1,0,0,1,885,330)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAHNJREFUKJG1kbsNwCAMBS0vgFs+w7ApCDZJHbZxhwRpQqKASGjySutO9pMBfopFxG0JJKJkjGEAqJ+g1ppjjDXnXGfCALb0giWipJTiEMID7AVsxjmEUspKt3uTEGKXUrL3/vWkqeicey09FVeFS1x93JADlZpjclZzvtIAAAAASUVORK5CYII="/>
         </g>
@@ -2847,14 +2847,14 @@
           <path vector-effect="none" fill-rule="evenodd" d="M0,0 L30,0 L30,30 L0,30 L0,0z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,900,352)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M-28.125,0 L28.125,0 L28.125,28 L-28.125,28 L-28.125,0z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M-31.875,0 L31.875,0 L31.875,28 L-31.875,28 L-31.875,0z "/>
         </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,871.875,352)" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">
-          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="41" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">PS-Simulink</text>
-          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="93" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">Converter7</text>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,868.125,352)" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">
+          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="19" y="41" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">PS-Simulink</text>
+          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="93" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">Converter v2a</text>
         </g>
       </g>
-      <g id="prop.model_tugas3/Rangkaian Soal A/To Workspace V2A" class="proptable" display="none" pointer-events="none" extent_Height="86" extent_Width="120" preferred_X="1030" preferred_Y="290">
+      <g id="prop.model_tugas3/Rangkaian Soal A/V2A" class="proptable" display="none" pointer-events="none" extent_Height="86" extent_Width="120" preferred_X="1030" preferred_Y="290">
         <rect x="0" y="0" width="120" height="86" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
         <text x="3" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">VariableName</text>
         <text x="68.5" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">v2_soalA</text>
@@ -2873,8 +2873,8 @@
         <text x="68.5" y="82" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">off</text>
         <rect x="0" y="0" width="120" height="86" rx="4" ry="4" stroke="rgb(0%,0%,0%)" fill="none"/>
       </g>
-      <g id="model_tugas3/Rangkaian Soal A/To Workspace V2A" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
-        <title id="title.model_tugas3/Rangkaian Soal A/To Workspace V2A">To Workspace V2A</title>
+      <g id="model_tugas3/Rangkaian Soal A/V2A" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
+        <title id="title.model_tugas3/Rangkaian Soal A/V2A">V2A</title>
         <g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,965,285)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M0,0 L60,0 L60,30 L0,30 L0,0z "/>
         </g>
@@ -2885,10 +2885,10 @@
           <path vector-effect="none" fill-rule="evenodd" d="M0,0 L60,0 L60,30 L0,30 L0,0z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,995,317)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M-44,0 L44,0 L44,15 L-44,15 L-44,0z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M-10.75,0 L10.75,0 L10.75,15 L-10.75,15 L-10.75,0z "/>
         </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,951,317)" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">
-          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="41" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">To Workspace V2A</text>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,984.25,317)" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">
+          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="41" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">V2A</text>
         </g>
       </g>
       <g id="prop.model_tugas3/Rangkaian Soal A/Output V1A" class="proptable" display="none" pointer-events="none" extent_Height="44" extent_Width="80.5" preferred_X="495" preferred_Y="530">
@@ -2914,12 +2914,12 @@
           <path vector-effect="none" fill-rule="evenodd" d="M0,1 L88,1 L88,29 L0,29 L0,1z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,400,525)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M0,6 C0,2.68629 2.68629,0 6,0 L59.25,0 C62.5637,0 65.25,2.68629 65.25,6 L65.25,15 C65.25,18.3137 62.5637,21 59.25,21 L6,21 C2.68629,21 0,18.3137 0,15 L0,6z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M0,6 C0,2.68629 2.68629,0 6,0 L70.25,0 C73.5637,0 76.25,2.68629 76.25,6 L76.25,15 C76.25,18.3137 73.5637,21 70.25,21 L6,21 C2.68629,21 0,18.3137 0,15 L0,6z "/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,403,528)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M0,0 L57,0 L57,15 L0,15 L0,0z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M0,0 L68,0 L68,15 L0,15 L0,0z "/>
         </g>
-        <g fill="none" stroke="none" transform="matrix(1,0,0,1,460,535.5)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+        <g fill="none" stroke="none" transform="matrix(1,0,0,1,471,535.5)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M0.25,-7.5 L2.25,-7.5 L2.25,7.5 L0.25,7.5 L0.25,-7.5z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,445,557)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
@@ -2952,12 +2952,12 @@
           <path vector-effect="none" fill-rule="evenodd" d="M0,1 L88,1 L88,29 L0,29 L0,1z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,965,340)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M0,6 C0,2.68629 2.68629,0 6,0 L59.25,0 C62.5637,0 65.25,2.68629 65.25,6 L65.25,15 C65.25,18.3137 62.5637,21 59.25,21 L6,21 C2.68629,21 0,18.3137 0,15 L0,6z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M0,6 C0,2.68629 2.68629,0 6,0 L70.25,0 C73.5637,0 76.25,2.68629 76.25,6 L76.25,15 C76.25,18.3137 73.5637,21 70.25,21 L6,21 C2.68629,21 0,18.3137 0,15 L0,6z "/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,968,343)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M0,0 L57,0 L57,15 L0,15 L0,0z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M0,0 L68,0 L68,15 L0,15 L0,0z "/>
         </g>
-        <g fill="none" stroke="none" transform="matrix(1,0,0,1,1025,350.5)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+        <g fill="none" stroke="none" transform="matrix(1,0,0,1,1036,350.5)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M0.25,-7.5 L2.25,-7.5 L2.25,7.5 L0.25,7.5 L0.25,-7.5z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,1010,372)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
@@ -3254,7 +3254,7 @@
           <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="41" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">Voltage Sensor V3A</text>
         </g>
       </g>
-      <g id="prop.model_tugas3/Rangkaian Soal A/PS-Simulink Converter8" class="proptable" display="none" pointer-events="none" extent_Height="114" extent_Width="179.75" preferred_X="1250" preferred_Y="330">
+      <g id="prop.model_tugas3/Rangkaian Soal A/PS-Simulink Converter v3a" class="proptable" display="none" pointer-events="none" extent_Height="114" extent_Width="179.75" preferred_X="1250" preferred_Y="330">
         <rect x="0" y="0" width="179.75" height="114" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
         <text x="3" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">PhysicalDomain</text>
         <text x="75" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">network_engine_domain</text>
@@ -3278,8 +3278,8 @@
         <text x="75" y="110" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">off</text>
         <rect x="0" y="0" width="179.75" height="114" rx="4" ry="4" stroke="rgb(0%,0%,0%)" fill="none"/>
       </g>
-      <g id="model_tugas3/Rangkaian Soal A/PS-Simulink Converter8" linkid="model_tugas3/Rangkaian Soal A/PS-Simulink Converter8" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
-        <title id="title.model_tugas3/Rangkaian Soal A/PS-Simulink Converter8">PS-Simulink Converter8</title>
+      <g id="model_tugas3/Rangkaian Soal A/PS-Simulink Converter v3a" linkid="model_tugas3/Rangkaian Soal A/PS-Simulink Converter v3a" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
+        <title id="title.model_tugas3/Rangkaian Soal A/PS-Simulink Converter v3a">PS-Simulink Converter v3a</title>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(-1,0,0,1,1215,335)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAHNJREFUKJG1kbsNwCAMBS0vgFs+w7ApCDZJHbZxhwRpQqKASGjySutO9pMBfopFxG0JJKJkjGEAqJ+g1ppjjDXnXGfCALb0giWipJTiEMID7AVsxjmEUspKt3uTEGKXUrL3/vWkqeicey09FVeFS1x93JADlZpjclZzvtIAAAAASUVORK5CYII="/>
         </g>
@@ -3305,14 +3305,14 @@
           <path vector-effect="none" fill-rule="evenodd" d="M0,0 L30,0 L30,30 L0,30 L0,0z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,1230,357)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M-26.75,0 L26.75,0 L26.75,26 L-26.75,26 L-26.75,0z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M-29,0 L29,0 L29,26 L-29,26 L-29,0z "/>
         </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,1203.25,357)" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">
-          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="42" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">PS-Simulink</text>
-          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="18.5" y="90" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">Converter8</text>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,1201,357)" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">
+          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="13" y="42" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">PS-Simulink</text>
+          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="90" font-family="Times New Roman" font-size="40" font-weight="400" font-style="normal">Converter v3a</text>
         </g>
       </g>
-      <g id="prop.model_tugas3/Rangkaian Soal A/To Workspace V3A" class="proptable" display="none" pointer-events="none" extent_Height="86" extent_Width="113" preferred_X="1365" preferred_Y="290">
+      <g id="prop.model_tugas3/Rangkaian Soal A/V3A" class="proptable" display="none" pointer-events="none" extent_Height="86" extent_Width="113" preferred_X="1365" preferred_Y="290">
         <rect x="0" y="0" width="113" height="86" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
         <text x="3" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">VariableName</text>
         <text x="68.5" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">v3_soalA</text>
@@ -3331,8 +3331,8 @@
         <text x="68.5" y="82" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">off</text>
         <rect x="0" y="0" width="113" height="86" rx="4" ry="4" stroke="rgb(0%,0%,0%)" fill="none"/>
       </g>
-      <g id="model_tugas3/Rangkaian Soal A/To Workspace V3A" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
-        <title id="title.model_tugas3/Rangkaian Soal A/To Workspace V3A">To Workspace V3A</title>
+      <g id="model_tugas3/Rangkaian Soal A/V3A" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
+        <title id="title.model_tugas3/Rangkaian Soal A/V3A">V3A</title>
         <g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,1300,285)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M0,0 L60,0 L60,30 L0,30 L0,0z "/>
         </g>
@@ -3343,10 +3343,10 @@
           <path vector-effect="none" fill-rule="evenodd" d="M0,0 L60,0 L60,30 L0,30 L0,0z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,1330,317)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M-44,0 L44,0 L44,15 L-44,15 L-44,0z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M-10.75,0 L10.75,0 L10.75,15 L-10.75,15 L-10.75,0z "/>
         </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,1286,317)" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">
-          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="41" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">To Workspace V3A</text>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,1319.25,317)" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">
+          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="41" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">V3A</text>
         </g>
       </g>
       <g id="prop.model_tugas3/Rangkaian Soal A/Output V3A" class="proptable" display="none" pointer-events="none" extent_Height="44" extent_Width="80.5" preferred_X="1395" preferred_Y="345">
@@ -3372,12 +3372,12 @@
           <path vector-effect="none" fill-rule="evenodd" d="M0,1 L88,1 L88,29 L0,29 L0,1z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,1300,340)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M0,6 C0,2.68629 2.68629,0 6,0 L59.25,0 C62.5637,0 65.25,2.68629 65.25,6 L65.25,15 C65.25,18.3137 62.5637,21 59.25,21 L6,21 C2.68629,21 0,18.3137 0,15 L0,6z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M0,6 C0,2.68629 2.68629,0 6,0 L70.25,0 C73.5637,0 76.25,2.68629 76.25,6 L76.25,15 C76.25,18.3137 73.5637,21 70.25,21 L6,21 C2.68629,21 0,18.3137 0,15 L0,6z "/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,1303,343)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M0,0 L57,0 L57,15 L0,15 L0,0z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M0,0 L68,0 L68,15 L0,15 L0,0z "/>
         </g>
-        <g fill="none" stroke="none" transform="matrix(1,0,0,1,1360,350.5)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+        <g fill="none" stroke="none" transform="matrix(1,0,0,1,1371,350.5)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M0.25,-7.5 L2.25,-7.5 L2.25,7.5 L0.25,7.5 L0.25,-7.5z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,1345,372)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
@@ -3674,7 +3674,7 @@
           <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="41" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">Voltage Sensor V4A</text>
         </g>
       </g>
-      <g id="prop.model_tugas3/Rangkaian Soal A/PS-Simulink Converter9" class="proptable" display="none" pointer-events="none" extent_Height="114" extent_Width="179.75" preferred_X="1075" preferred_Y="590">
+      <g id="prop.model_tugas3/Rangkaian Soal A/PS-Simulink Converter v4a" class="proptable" display="none" pointer-events="none" extent_Height="114" extent_Width="179.75" preferred_X="1075" preferred_Y="590">
         <rect x="0" y="0" width="179.75" height="114" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
         <text x="3" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">PhysicalDomain</text>
         <text x="75" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">network_engine_domain</text>
@@ -3698,8 +3698,8 @@
         <text x="75" y="110" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">off</text>
         <rect x="0" y="0" width="179.75" height="114" rx="4" ry="4" stroke="rgb(0%,0%,0%)" fill="none"/>
       </g>
-      <g id="model_tugas3/Rangkaian Soal A/PS-Simulink Converter9" linkid="model_tugas3/Rangkaian Soal A/PS-Simulink Converter9" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
-        <title id="title.model_tugas3/Rangkaian Soal A/PS-Simulink Converter9">PS-Simulink Converter9</title>
+      <g id="model_tugas3/Rangkaian Soal A/PS-Simulink Converter v4a" linkid="model_tugas3/Rangkaian Soal A/PS-Simulink Converter v4a" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
+        <title id="title.model_tugas3/Rangkaian Soal A/PS-Simulink Converter v4a">PS-Simulink Converter v4a</title>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(-1,0,0,1,1040,595)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAHNJREFUKJG1kbsNwCAMBS0vgFs+w7ApCDZJHbZxhwRpQqKASGjySutO9pMBfopFxG0JJKJkjGEAqJ+g1ppjjDXnXGfCALb0giWipJTiEMID7AVsxjmEUspKt3uTEGKXUrL3/vWkqeicey09FVeFS1x93JADlZpjclZzvtIAAAAASUVORK5CYII="/>
         </g>
@@ -3725,14 +3725,14 @@
           <path vector-effect="none" fill-rule="evenodd" d="M0,0 L30,0 L30,30 L0,30 L0,0z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,1055,617)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M-28.125,0 L28.125,0 L28.125,28 L-28.125,28 L-28.125,0z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M-31.875,0 L31.875,0 L31.875,28 L-31.875,28 L-31.875,0z "/>
         </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,1026.88,617)" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">
-          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="41" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">PS-Simulink</text>
-          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="93" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">Converter9</text>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,1023.12,617)" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">
+          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="19" y="41" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">PS-Simulink</text>
+          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="93" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">Converter v4a</text>
         </g>
       </g>
-      <g id="prop.model_tugas3/Rangkaian Soal A/To Workspace V4A" class="proptable" display="none" pointer-events="none" extent_Height="86" extent_Width="120" preferred_X="1210" preferred_Y="560">
+      <g id="prop.model_tugas3/Rangkaian Soal A/V4A" class="proptable" display="none" pointer-events="none" extent_Height="86" extent_Width="120" preferred_X="1210" preferred_Y="560">
         <rect x="0" y="0" width="120" height="86" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
         <text x="3" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">VariableName</text>
         <text x="68.5" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">v4_soalA</text>
@@ -3751,8 +3751,8 @@
         <text x="68.5" y="82" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">off</text>
         <rect x="0" y="0" width="120" height="86" rx="4" ry="4" stroke="rgb(0%,0%,0%)" fill="none"/>
       </g>
-      <g id="model_tugas3/Rangkaian Soal A/To Workspace V4A" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
-        <title id="title.model_tugas3/Rangkaian Soal A/To Workspace V4A">To Workspace V4A</title>
+      <g id="model_tugas3/Rangkaian Soal A/V4A" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
+        <title id="title.model_tugas3/Rangkaian Soal A/V4A">V4A</title>
         <g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,1145,555)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M0,0 L60,0 L60,30 L0,30 L0,0z "/>
         </g>
@@ -3763,10 +3763,10 @@
           <path vector-effect="none" fill-rule="evenodd" d="M0,0 L60,0 L60,30 L0,30 L0,0z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,1175,587)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M-44,0 L44,0 L44,15 L-44,15 L-44,0z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M-10.75,0 L10.75,0 L10.75,15 L-10.75,15 L-10.75,0z "/>
         </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,1131,587)" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">
-          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="41" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">To Workspace V4A</text>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,1164.25,587)" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">
+          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="41" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">V4A</text>
         </g>
       </g>
       <g id="prop.model_tugas3/Rangkaian Soal A/Output V4A" class="proptable" display="none" pointer-events="none" extent_Height="44" extent_Width="80.5" preferred_X="1240" preferred_Y="610">
@@ -3792,12 +3792,12 @@
           <path vector-effect="none" fill-rule="evenodd" d="M0,1 L88,1 L88,29 L0,29 L0,1z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,1145,605)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M0,6 C0,2.68629 2.68629,0 6,0 L59.25,0 C62.5637,0 65.25,2.68629 65.25,6 L65.25,15 C65.25,18.3137 62.5637,21 59.25,21 L6,21 C2.68629,21 0,18.3137 0,15 L0,6z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M0,6 C0,2.68629 2.68629,0 6,0 L70.25,0 C73.5637,0 76.25,2.68629 76.25,6 L76.25,15 C76.25,18.3137 73.5637,21 70.25,21 L6,21 C2.68629,21 0,18.3137 0,15 L0,6z "/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,1148,608)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M0,0 L57,0 L57,15 L0,15 L0,0z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M0,0 L68,0 L68,15 L0,15 L0,0z "/>
         </g>
-        <g fill="none" stroke="none" transform="matrix(1,0,0,1,1205,615.5)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+        <g fill="none" stroke="none" transform="matrix(1,0,0,1,1216,615.5)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M0.25,-7.5 L2.25,-7.5 L2.25,7.5 L0.25,7.5 L0.25,-7.5z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,1190,637)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
