@@ -1,0 +1,638 @@
+function varargout = tgs3_202443500580(varargin)
+% TGS3_202443500580 MATLAB code for tgs3_202443500580.fig
+%      TGS3_202443500580, by itself, creates a new TGS3_202443500580 or raises the existing
+%      singleton*.
+%
+%      H = TGS3_202443500580 returns the handle to a new TGS3_202443500580 or the handle to
+%      the existing singleton*.
+%
+%      TGS3_202443500580('CALLBACK',hObject,eventData,handles,...) calls the local
+%      function named CALLBACK in TGS3_202443500580.M with the given input arguments.
+%
+%      TGS3_202443500580('Property','Value',...) creates a new TGS3_202443500580 or raises
+%      the existing singleton*.  Starting from the left, property value pairs are
+%      applied to the GUI before tgs3_202443500580_OpeningFcn gets called.  An
+%      unrecognized property name or invalid value makes property application
+%      stop.  All inputs are passed to tgs3_202443500580_OpeningFcn via varargin.
+%
+%      *See GUI Options on GUIDE's Tools menu.  Choose "GUI allows only one
+%      instance to run (singleton)".
+%
+% See also: GUIDE, GUIDATA, GUIHANDLES
+
+% Edit the above text to modify the response to help tgs3_202443500580
+
+% Last Modified by GUIDE v2.5 04-May-2026 01:12:41
+
+% Begin initialization code - DO NOT EDIT
+gui_Singleton = 1;
+gui_State = struct('gui_Name',       mfilename, ...
+                   'gui_Singleton',  gui_Singleton, ...
+                   'gui_OpeningFcn', @tgs3_202443500580_OpeningFcn, ...
+                   'gui_OutputFcn',  @tgs3_202443500580_OutputFcn, ...
+                   'gui_LayoutFcn',  [] , ...
+                   'gui_Callback',   []);
+if nargin && ischar(varargin{1})
+    gui_State.gui_Callback = str2func(varargin{1});
+end
+
+if nargout
+    [varargout{1:nargout}] = gui_mainfcn(gui_State, varargin{:});
+else
+    gui_mainfcn(gui_State, varargin{:});
+end
+% End initialization code - DO NOT EDIT
+
+% --- Executes just before tgs3_202443500580 is made visible.
+function tgs3_202443500580_OpeningFcn(hObject, eventdata, handles, varargin)
+% This function has no output args, see OutputFcn.
+% hObject    handle to figure
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+% varargin   command line arguments to tgs3_202443500580 (see VARARGIN)
+% simbol panel input
+set(handles.satuanr1, 'String', 'W', 'FontName', 'Symbol');
+set(handles.satuanr2, 'String', 'W', 'FontName', 'Symbol');
+set(handles.satuanr3, 'String', 'W', 'FontName', 'Symbol');
+set(handles.satuanr4, 'String', 'W', 'FontName', 'Symbol');
+set(handles.satuane, 'String', 'V');
+set(handles.epsilon,  'String', 'e', 'FontName', 'Symbol');
+
+% simbol satuan di panel output
+set(handles.satuani1,     'String', 'A');
+set(handles.satuani2,     'String', 'A');
+set(handles.satuani3,     'String', 'A');
+set(handles.satuani4,     'String', 'A');
+set(handles.satuanitotal, 'String', 'A');
+set(handles.satuanv1, 'String', 'V');
+set(handles.satuanv2, 'String', 'V');
+set(handles.satuanv3, 'String', 'V');
+set(handles.satuanv4, 'String', 'V');
+% Choose default command line output for tgs3_202443500580
+handles.output = hObject;
+
+% Update handles structure
+guidata(hObject, handles);
+
+initialize_gui(hObject, handles, false);
+
+% UIWAIT makes tgs3_202443500580 wait for user response (see UIRESUME)
+% uiwait(handles.figure1);
+
+
+% --- Outputs from this function are returned to the command line.
+function varargout = tgs3_202443500580_OutputFcn(hObject, eventdata, handles)
+% varargout  cell array for returning output args (see VARARGOUT);
+% hObject    handle to figure
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Get default command line output from handles structure
+varargout{1} = handles.output;
+
+
+% --- Executes during object creation, after setting all properties.
+function density_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to density (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: popupmenu controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function density_Callback(hObject, eventdata, handles)
+% hObject    handle to density (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of density as text
+%        str2double(get(hObject,'String')) returns contents of density as a double
+density = str2double(get(hObject, 'String'));
+if isnan(density)
+    set(hObject, 'String', 0);
+    errordlg('Input must be a number','Error');
+end
+
+% Save the new density value
+handles.metricdata.density = density;
+guidata(hObject,handles)
+
+% --- Executes during object creation, after setting all properties.
+function volume_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to volume (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: popupmenu controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function volume_Callback(hObject, eventdata, handles)
+% hObject    handle to volume (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of volume as text
+%        str2double(get(hObject,'String')) returns contents of volume as a double
+volume = str2double(get(hObject, 'String'));
+if isnan(volume)
+    set(hObject, 'String', 0);
+    errordlg('Input must be a number','Error');
+end
+
+% Save the new volume value
+handles.metricdata.volume = volume;
+guidata(hObject,handles)
+
+% --- Executes on button press in calculate.
+function calculate_Callback(hObject, eventdata, handles)
+% hObject    handle to calculate (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+mass = handles.metricdata.density * handles.metricdata.volume;
+set(handles.mass, 'String', mass);
+
+% --- Executes on button press in reset.
+function reset_Callback(hObject, eventdata, handles)
+% hObject    handle to reset (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+initialize_gui(gcbf, handles, true);
+
+% --- Executes when selected object changed in unitgroup.
+function unitgroup_SelectionChangeFcn(hObject, eventdata, handles)
+% hObject    handle to the selected object in unitgroup 
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+if (hObject == handles.english)
+    set(handles.text4, 'String', 'lb/cu.in');
+    set(handles.text5, 'String', 'cu.in');
+    set(handles.text6, 'String', 'lb');
+else
+    set(handles.text4, 'String', 'kg/cu.m');
+    set(handles.text5, 'String', 'cu.m');
+    set(handles.text6, 'String', 'kg');
+end
+
+% --------------------------------------------------------------------
+function initialize_gui(fig_handle, handles, isreset)
+% If the metricdata field is present and the reset flag is false, it means
+% we are we are just re-initializing a GUI by calling it from the cmd line
+% while it is up. So, bail out as we dont want to reset the data.
+if isfield(handles, 'metricdata') && ~isreset
+    return;
+end
+
+function edit_r1_Callback(hObject, eventdata, handles)
+% hObject    handle to edit_r1 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit_r1 as text
+%        str2double(get(hObject,'String')) returns contents of edit_r1 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit_r1_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit_r1 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function edit7_Callback(hObject, eventdata, handles)
+% hObject    handle to edit7 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit7 as text
+%        str2double(get(hObject,'String')) returns contents of edit7 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit7_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit7 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function edit8_Callback(hObject, eventdata, handles)
+% hObject    handle to edit8 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit8 as text
+%        str2double(get(hObject,'String')) returns contents of edit8 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit8_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit8 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function edit10_Callback(hObject, eventdata, handles)
+% hObject    handle to edit10 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit10 as text
+%        str2double(get(hObject,'String')) returns contents of edit10 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit10_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit10 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function edit11_Callback(hObject, eventdata, handles)
+% hObject    handle to edit11 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit11 as text
+%        str2double(get(hObject,'String')) returns contents of edit11 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit11_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit11 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function edit12_Callback(hObject, eventdata, handles)
+% hObject    handle to edit12 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit12 as text
+%        str2double(get(hObject,'String')) returns contents of edit12 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit12_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit12 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+% --- Executes on button press in tombol_reset.
+function tombol_reset_Callback(hObject, eventdata, handles)
+% hObject    handle to tombol_reset (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+set(handles.edit_r1, 'String', '');
+set(handles.edit_r2, 'String', '');
+set(handles.edit_r3, 'String', '');
+set(handles.edit_r4, 'String', '');
+set(handles.edit_e,  'String', '');
+set(handles.hasil_i1, 'String', '');
+set(handles.hasil_i2, 'String', '');
+set(handles.hasil_i3, 'String', '');
+set(handles.hasil_i4, 'String', '');
+set(handles.hasil_itotal, 'String', '');
+set(handles.hasil_v1, 'String', '');
+set(handles.hasil_v2, 'String', '');
+set(handles.hasil_v3, 'String', '');
+set(handles.hasil_v4, 'String', '');
+set(handles.popupmenu1, 'Value', 1);
+cla(handles.axes1, 'reset');
+
+
+% --- Executes on button press in tombol_hitung.
+function tombol_hitung_Callback(hObject, eventdata, handles)
+pilihan_soal = get(handles.popupmenu1, 'Value');
+if pilihan_soal == 1
+    errordlg('Silakan pilih tipe rangkaian (Soal A atau Soal B) terlebih dahulu!', 'Peringatan');
+    return;
+end
+R1_val = str2double(get(handles.edit_r1, 'String'));
+R2_val = str2double(get(handles.edit_r2, 'String'));
+R3_val = str2double(get(handles.edit_r3, 'String'));
+R4_val = str2double(get(handles.edit_r4, 'String'));
+V_val  = str2double(get(handles.edit_e, 'String'));
+% Validasi inputan
+if isnan(R1_val) || isnan(R2_val) || isnan(R3_val) || isnan(R4_val) || isnan(V_val)
+    errordlg('Pastikan semua input berisi angka.', 'Error Input');
+    return;
+end
+% konfigurasi & jalanin simulasi pada model3
+nama_model = 'model_tugas3'; 
+load_system(nama_model); 
+
+hWks = get_param(nama_model, 'ModelWorkspace');
+assignin(hWks, 'R1', R1_val);
+assignin(hWks, 'R2', R2_val);
+assignin(hWks, 'R3', R3_val);
+assignin(hWks, 'R4', R4_val);
+assignin(hWks, 'V', V_val);
+sim(nama_model);
+% menampilkan hasil sesuai modelberdasarkan pilihan
+try
+    % Ambil nilai input di GUI (V=I*R)
+    R1 = str2double(get(handles.edit_r1, 'String'));
+    R2 = str2double(get(handles.edit_r2, 'String'));
+    R3 = str2double(get(handles.edit_r3, 'String'));
+    R4 = str2double(get(handles.edit_r4, 'String'));
+    % grafik on
+    axes(handles.axes1);
+    cla(handles.axes1, 'reset'); % hapus gambar sebelumnya
+
+    if pilihan_soal == 2
+        res_I1 = eval('simout'); 
+        res_I2 = eval('simout1');
+        res_I4 = eval('simout2');
+        % data Arus
+        i1_val = res_I1(end);
+        i2_val = res_I2(end);
+        i3_val = res_I2(end); 
+        i4_val = res_I4(end);
+        itotal_val = res_I1(end);
+        % nampilin arus ke GUI
+        set(handles.hasil_i1, 'String', num2str(i1_val, '%.2f')); 
+        set(handles.hasil_i2, 'String', num2str(i2_val, '%.2f')); 
+        set(handles.hasil_i3, 'String', num2str(i3_val, '%.2f')); 
+        set(handles.hasil_i4, 'String', num2str(i4_val, '%.2f'));
+        set(handles.hasil_itotal, 'String', num2str(itotal_val, '%.2f'));
+        % nampilin tegangan ke GUI
+        set(handles.hasil_v1, 'String', num2str(i1_val * R1, '%.2f'));
+        set(handles.hasil_v2, 'String', num2str(i2_val * R2, '%.2f'));
+        set(handles.hasil_v3, 'String', num2str(i3_val * R3, '%.2f'));
+        set(handles.hasil_v4, 'String', num2str(i4_val * R4, '%.2f'));
+        % Plot Grafik Respon Arus Soal A
+        waktu = linspace(0, 1, length(res_I1));
+
+        plot(waktu, res_I1, '-r',  'LineWidth', 2.0); hold on;
+        plot(waktu, res_I2, '--b', 'LineWidth', 2.0);
+        plot(waktu, res_I4, '-.g', 'LineWidth', 2.0);
+        hold off;
+
+        title('Respon Arus Transien - Soal A', 'FontSize', 10, 'FontWeight', 'bold');
+        xlabel('Waktu (second)', 'FontSize', 10, 'FontWeight', 'bold');
+        ylabel('Arus (Ampere)',  'FontSize', 10, 'FontWeight', 'bold');
+
+        legend('I_1 (Total)', 'I_2 = I_3', 'I_4', 'Location', 'best');
+
+        grid on;
+        set(gca, 'GridLineStyle', '--', ...
+                 'FontSize',      10,   ...
+                 'Box',           'on', ...
+                 'LineWidth',     1.2);
+
+        axis tight;
+        ylim([min([res_I1; res_I2; res_I4]) * 0.9, ...
+              max([res_I1; res_I2; res_I4]) * 1.1]);
+        
+    elseif pilihan_soal == 3
+        res_I1_B = eval('simout3'); 
+        res_I2_B = eval('simout4');
+        res_I4_B = eval('simout5');
+        % Data Arus
+        i1_b_val = res_I1_B(end);
+        i2_b_val = res_I2_B(end);
+        i3_b_val = res_I2_B(end);
+        i4_b_val = res_I4_B(end);
+        itotal_b_val = res_I1_B(end);
+        % nampilin arus ke GUI
+        set(handles.hasil_i1, 'String', num2str(i1_b_val, '%.2f'));
+        set(handles.hasil_i2, 'String', num2str(i2_b_val, '%.2f'));
+        set(handles.hasil_i3, 'String', num2str(i3_b_val, '%.2f'));
+        set(handles.hasil_i4, 'String', num2str(i4_b_val, '%.2f'));
+        set(handles.hasil_itotal, 'String', num2str(itotal_b_val, '%.2f'));
+        % nampilin tegangan ke GUI
+        set(handles.hasil_v1, 'String', num2str(i1_b_val * R1, '%.2f'));
+        set(handles.hasil_v2, 'String', num2str(i2_b_val * R2, '%.2f'));
+        set(handles.hasil_v3, 'String', num2str(i3_b_val * R3, '%.2f'));
+        set(handles.hasil_v4, 'String', num2str(i4_b_val * R4, '%.2f'));
+        % Plot Grafik Respon Arus Soal B
+        waktu = linspace(0, 1, length(res_I1_B));
+
+        plot(waktu, res_I1_B, '-r',  'LineWidth', 2.0); hold on;
+        plot(waktu, res_I2_B, '--b', 'LineWidth', 2.0);
+        plot(waktu, res_I4_B, '-.g', 'LineWidth', 2.0);
+        hold off;
+
+        title('Respon Arus Transien - Soal B', 'FontSize', 10, 'FontWeight', 'bold');
+        xlabel('Waktu (second)', 'FontSize', 10, 'FontWeight', 'bold');
+        ylabel('Arus (Ampere)',  'FontSize', 10, 'FontWeight', 'bold');
+
+        legend('I_1 (Total)', 'I_2 = I_3', 'I_4', 'Location', 'best');
+
+        grid on;
+        set(gca, 'GridLineStyle', '--', ...
+                 'FontSize',      10,   ...
+                 'Box',           'on', ...
+                 'LineWidth',     1.2);
+
+        axis tight;
+        ylim([min([res_I1_B; res_I2_B; res_I4_B]) * 0.9, ...
+              max([res_I1_B; res_I2_B; res_I4_B]) * 1.1]);
+        
+        title('Grafik Respon Arus Soal B');
+        xlabel('Waktu (detik)'); ylabel('Arus (Ampere)');
+        legend('I_1', 'I_2 & I_3', 'I_4', 'Location', 'best');
+        grid on;
+    end
+catch ME
+    msg = sprintf('Gagal menampilkan hasil: %s', ME.message);
+    errordlg(msg, 'Error Output');
+end
+guidata(hObject, handles);
+
+function edit_r2_Callback(hObject, eventdata, handles)
+% hObject    handle to edit_r2 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit_r2 as text
+%        str2double(get(hObject,'String')) returns contents of edit_r2 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit_r2_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit_r2 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function edit_r3_Callback(hObject, eventdata, handles)
+% hObject    handle to edit_r3 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit_r3 as text
+%        str2double(get(hObject,'String')) returns contents of edit_r3 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit_r3_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit_r3 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function edit_r4_Callback(hObject, eventdata, handles)
+% hObject    handle to edit_r4 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit_r4 as text
+%        str2double(get(hObject,'String')) returns contents of edit_r4 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit_r4_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit_r4 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function edit_e_Callback(hObject, eventdata, handles)
+% hObject    handle to edit_e (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit_e as text
+%        str2double(get(hObject,'String')) returns contents of edit_e as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit_e_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit_e (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+% --- Executes on selection change in popupmenu1.
+function popupmenu1_Callback(hObject, eventdata, handles)
+% Ambil urutan pilihan (1: Pilih Soal, 2: Soal A, 3: Soal B)
+pilihan = get(hObject, 'Value');
+
+% Gunakan axes1 untuk menampilkan gambar skema rangkaian
+axes(handles.axes1);
+
+switch pilihan
+    case 2 % Jika memilih Rangkaian A
+        try
+            imshow('soalA.png'); % Pastikan file soalA.png ada di folder yang sama
+            title('Skema Rangkaian Soal A');
+        catch
+            cla(handles.axes1, 'reset');
+            text(0.1, 0.5, 'Gambar soalA.png tidak ditemukan', 'Color', 'red', 'FontSize', 12);
+        end
+        
+    case 3 % Jika memilih Rangkaian B
+        try
+            imshow('soalB.png'); % Pastikan file soalB.png ada di folder yang sama
+            title('Skema Rangkaian Soal B');
+        catch
+            cla(handles.axes1, 'reset');
+            text(0.1, 0.5, 'Gambar soalB.png tidak ditemukan', 'Color', 'red', 'FontSize', 12);
+        end
+        
+    otherwise
+        % Jika kembali memilih "Pilih Soal..."
+        cla(handles.axes1, 'reset');
+end
+
+% Simpan perubahan handles
+guidata(hObject, handles);
+
+% Hints: contents = cellstr(get(hObject,'String')) returns popupmenu1 contents as cell array
+%        contents{get(hObject,'Value')} returns selected item from popupmenu1
+
+
+% --- Executes during object creation, after setting all properties.
+function popupmenu1_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to popupmenu1 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: popupmenu controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
