@@ -620,25 +620,22 @@ end
 
 % --- Executes on selection change in popupmenu1.
 function popupmenu1_Callback(hObject, eventdata, handles)
-% Ambil urutan pilihan (1: Pilih Soal, 2: Soal A, 3: Soal B)
 pilihan = get(hObject, 'Value');
-
-% Gunakan axes1 untuk menampilkan gambar skema rangkaian
 axes(handles.axes1);
 
 switch pilihan
-    case 2 % Jika memilih Rangkaian A
+    case 2 
         try
-            imshow('soalA.png'); % Pastikan file soalA.png ada di folder yang sama
+            imshow('soalA.png');
             title('Skema Rangkaian Soal A');
         catch
             cla(handles.axes1, 'reset');
             text(0.1, 0.5, 'Gambar soalA.png tidak ditemukan', 'Color', 'red', 'FontSize', 12);
         end
         
-    case 3 % Jika memilih Rangkaian B
+    case 3
         try
-            imshow('soalB.png'); % Pastikan file soalB.png ada di folder yang sama
+            imshow('soalB.png');
             title('Skema Rangkaian Soal B');
         catch
             cla(handles.axes1, 'reset');
@@ -646,11 +643,9 @@ switch pilihan
         end
         
     otherwise
-        % Jika kembali memilih "Pilih Soal..."
         cla(handles.axes1, 'reset');
 end
 
-% Simpan perubahan handles
 guidata(hObject, handles);
 
 % Hints: contents = cellstr(get(hObject,'String')) returns popupmenu1 contents as cell array
