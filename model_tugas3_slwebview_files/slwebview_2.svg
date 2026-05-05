@@ -889,14 +889,14 @@
       </g>
       <g id="model_tugas3/Rangkaian Soal A/Current Sensor i1a" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
         <title id="title.model_tugas3/Rangkaian Soal A/Current Sensor i1a">Current Sensor i1a</title>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(-1,0,0,1,340,305)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAChJREFUKJFjYBj6gBFK/8chjgGYYIzNmzczbN68maANTARVUOqk4QAA47IGOfRGCOcAAAAASUVORK5CYII="/>
-        </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,380,315)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAChJREFUKJFjYBj6gBFK/8chjgGYYIzNmzczbN68maANTARVUOqk4QAA47IGOfRGCOcAAAAASUVORK5CYII="/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,380,295)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAHRJREFUKJGdjkEKAyEQBBt9gF51fMz+VMWfZK/Jb/bmQO8pCwlEJlswtyp6gDt473cA2z8NSylHjPFlDamqHGNQREwh36gqe+8UkSOE8PwV8htVZWuNOeeP0C0mr1suzDlZa2VKaf2SVbwCqwgAcM49TOIdTq5eZWklRJ1BAAAAAElFTkSuQmCC"/>
+        </g>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(-1,0,0,1,340,305)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAChJREFUKJFjYBj6gBFK/8chjgGYYIzNmzczbN68maANTARVUOqk4QAA47IGOfRGCOcAAAAASUVORK5CYII="/>
         </g>
         <g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,340,290)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M0,0 L40,0 L40,40 L0,40 L0,0z "/>
@@ -1237,14 +1237,14 @@
       </g>
       <g id="model_tugas3/Rangkaian Soal A/Current Sensor i2a" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
         <title id="title.model_tugas3/Rangkaian Soal A/Current Sensor i2a">Current Sensor i2a</title>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,660,190)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAChJREFUKJFjYBj6gBFK/8chjgGYYIzNmzczbN68maANTARVUOqk4QAA47IGOfRGCOcAAAAASUVORK5CYII="/>
+        </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(-1,0,0,1,620,180)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAChJREFUKJFjYBj6gBFK/8chjgGYYIzNmzczbN68maANTARVUOqk4QAA47IGOfRGCOcAAAAASUVORK5CYII="/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,660,170)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAHRJREFUKJGdjkEKAyEQBBt9gF51fMz+VMWfZK/Jb/bmQO8pCwlEJlswtyp6gDt473cA2z8NSylHjPFlDamqHGNQREwh36gqe+8UkSOE8PwV8htVZWuNOeeP0C0mr1suzDlZa2VKaf2SVbwCqwgAcM49TOIdTq5eZWklRJ1BAAAAAElFTkSuQmCC"/>
-        </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,660,190)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAChJREFUKJFjYBj6gBFK/8chjgGYYIzNmzczbN68maANTARVUOqk4QAA47IGOfRGCOcAAAAASUVORK5CYII="/>
         </g>
         <g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,620,165)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M0,0 L40,0 L40,40 L0,40 L0,0z "/>
@@ -1585,14 +1585,14 @@
       </g>
       <g id="model_tugas3/Rangkaian Soal A/Current Sensor i4a" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
         <title id="title.model_tugas3/Rangkaian Soal A/Current Sensor i4a">Current Sensor i4a</title>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,640,460)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAChJREFUKJFjYBj6gBFK/8chjgGYYIzNmzczbN68maANTARVUOqk4QAA47IGOfRGCOcAAAAASUVORK5CYII="/>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,640,440)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAHRJREFUKJGdjkEKAyEQBBt9gF51fMz+VMWfZK/Jb/bmQO8pCwlEJlswtyp6gDt473cA2z8NSylHjPFlDamqHGNQREwh36gqe+8UkSOE8PwV8htVZWuNOeeP0C0mr1suzDlZa2VKaf2SVbwCqwgAcM49TOIdTq5eZWklRJ1BAAAAAElFTkSuQmCC"/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(-1,0,0,1,600,450)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAChJREFUKJFjYBj6gBFK/8chjgGYYIzNmzczbN68maANTARVUOqk4QAA47IGOfRGCOcAAAAASUVORK5CYII="/>
         </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,640,440)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAHRJREFUKJGdjkEKAyEQBBt9gF51fMz+VMWfZK/Jb/bmQO8pCwlEJlswtyp6gDt473cA2z8NSylHjPFlDamqHGNQREwh36gqe+8UkSOE8PwV8htVZWuNOeeP0C0mr1suzDlZa2VKaf2SVbwCqwgAcM49TOIdTq5eZWklRJ1BAAAAAElFTkSuQmCC"/>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,640,460)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAChJREFUKJFjYBj6gBFK/8chjgGYYIzNmzczbN68maANTARVUOqk4QAA47IGOfRGCOcAAAAASUVORK5CYII="/>
         </g>
         <g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,600,435)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M0,0 L40,0 L40,40 L0,40 L0,0z "/>
@@ -1976,7 +1976,7 @@
           <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="41" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">Arus_I2(a)</text>
         </g>
       </g>
-      <g id="prop.model_tugas3/Rangkaian Soal A/Arus_I4(a)" class="proptable" display="none" pointer-events="none" extent_Height="86" extent_Width="110.5" preferred_X="835" preferred_Y="362">
+      <g id="prop.model_tugas3/Rangkaian Soal A/Arus_I4(a)" class="proptable" display="none" pointer-events="none" extent_Height="86" extent_Width="110.5" preferred_X="840" preferred_Y="362">
         <rect x="0" y="0" width="110.5" height="86" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
         <text x="3" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">VariableName</text>
         <text x="68.5" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">i4_soalA</text>
@@ -1998,18 +1998,18 @@
       <g id="model_tugas3/Rangkaian Soal A/Arus_I4(a)" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
         <title id="title.model_tugas3/Rangkaian Soal A/Arus_I4(a)">Arus_I4(a)</title>
         <g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,780,357)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M0,0 L50,0 L50,26 L0,26 L0,0z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M0,0 L55,0 L55,26 L0,26 L0,0z "/>
         </g>
-        <g fill="#ffffff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(2,0,0,2,805,370)" font-family="Helvetica" font-size="5" font-weight="400" font-style="normal">
+        <g fill="#ffffff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(2,0,0,2,807,370)" font-family="Helvetica" font-size="5" font-weight="400" font-style="normal">
           <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="-10" y="1.5" font-family="Helvetica" font-size="5" font-weight="400" font-style="normal">i4_soalA</text>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,780,357)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M0,0 L50,0 L50,26 L0,26 L0,0z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M0,0 L55,0 L55,26 L0,26 L0,0z "/>
         </g>
-        <g fill="none" stroke="none" transform="matrix(1,0,0,1,805,385)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+        <g fill="none" stroke="none" transform="matrix(1,0,0,1,807.5,385)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M-24,0 L24,0 L24,15 L-24,15 L-24,0z "/>
         </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,781,385)" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,783.5,385)" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">
           <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="41" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">Arus_I4(a)</text>
         </g>
       </g>
@@ -2036,13 +2036,16 @@
           <path vector-effect="none" fill-rule="evenodd" d="M0,1 L88,1 L88,29 L0,29 L0,1z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,570,105)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M0,6 C0,2.68629 2.68629,0 6,0 L70.25,0 C73.5637,0 76.25,2.68629 76.25,6 L76.25,15 C76.25,18.3137 73.5637,21 70.25,21 L6,21 C2.68629,21 0,18.3137 0,15 L0,6z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M0,6 C0,2.68629 2.68629,0 6,0 L68,0 C71.3137,0 74,2.68629 74,6 L74,15 C74,18.3137 71.3137,21 68,21 L6,21 C2.68629,21 0,18.3137 0,15 L0,6z "/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,573,108)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M0,0 L68,0 L68,15 L0,15 L0,0z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,641,115.5)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M0.25,-7.5 L2.25,-7.5 L2.25,7.5 L0.25,7.5 L0.25,-7.5z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M-21.25,-7.5 L0,-7.5 L0,7.5 L-21.25,7.5 L-21.25,-7.5z "/>
+        </g>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,619.75,108)" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">
+          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="41" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">0.54</text>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,615,137)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M-24.75,0 L24.75,0 L24.75,15 L-24.75,15 L-24.75,0z "/>
@@ -2074,13 +2077,16 @@
           <path vector-effect="none" fill-rule="evenodd" d="M0,1 L88,1 L88,29 L0,29 L0,1z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,825,115)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M0,6 C0,2.68629 2.68629,0 6,0 L70.25,0 C73.5637,0 76.25,2.68629 76.25,6 L76.25,15 C76.25,18.3137 73.5637,21 70.25,21 L6,21 C2.68629,21 0,18.3137 0,15 L0,6z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M0,6 C0,2.68629 2.68629,0 6,0 L68,0 C71.3137,0 74,2.68629 74,6 L74,15 C74,18.3137 71.3137,21 68,21 L6,21 C2.68629,21 0,18.3137 0,15 L0,6z "/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,828,118)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M0,0 L68,0 L68,15 L0,15 L0,0z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,896,125.5)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M0.25,-7.5 L2.25,-7.5 L2.25,7.5 L0.25,7.5 L0.25,-7.5z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M-21.25,-7.5 L0,-7.5 L0,7.5 L-21.25,7.5 L-21.25,-7.5z "/>
+        </g>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,874.75,118)" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">
+          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="41" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">0.18</text>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,870,147)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M-24.75,0 L24.75,0 L24.75,15 L-24.75,15 L-24.75,0z "/>
@@ -2112,13 +2118,16 @@
           <path vector-effect="none" fill-rule="evenodd" d="M0,1 L88,1 L88,29 L0,29 L0,1z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,780,405)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M0,6 C0,2.68629 2.68629,0 6,0 L70.25,0 C73.5637,0 76.25,2.68629 76.25,6 L76.25,15 C76.25,18.3137 73.5637,21 70.25,21 L6,21 C2.68629,21 0,18.3137 0,15 L0,6z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M0,6 C0,2.68629 2.68629,0 6,0 L68,0 C71.3137,0 74,2.68629 74,6 L74,15 C74,18.3137 71.3137,21 68,21 L6,21 C2.68629,21 0,18.3137 0,15 L0,6z "/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,783,408)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M0,0 L68,0 L68,15 L0,15 L0,0z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,851,415.5)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M0.25,-7.5 L2.25,-7.5 L2.25,7.5 L0.25,7.5 L0.25,-7.5z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M-21.25,-7.5 L0,-7.5 L0,7.5 L-21.25,7.5 L-21.25,-7.5z "/>
+        </g>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,829.75,408)" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">
+          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="41" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">0.36</text>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,825,437)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M-24.75,0 L24.75,0 L24.75,15 L-24.75,15 L-24.75,0z "/>
@@ -2158,13 +2167,13 @@
       </g>
       <g id="model_tugas3/Rangkaian Soal A/Voltage Sensor V1A" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
         <title id="title.model_tugas3/Rangkaian Soal A/Voltage Sensor V1A">Voltage Sensor V1A</title>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(-1,0,0,1,230,430)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAChJREFUKJFjYBj6gBFK/8chjgGYYIzNmzczbN68maANTARVUOqk4QAA47IGOfRGCOcAAAAASUVORK5CYII="/>
+        </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,270,440)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAHRJREFUKJGdjkEKAyEQBBt9gF51fMz+VMWfZK/Jb/bmQO8pCwlEJlswtyp6gDt473cA2z8NSylHjPFlDamqHGNQREwh36gqe+8UkSOE8PwV8htVZWuNOeeP0C0mr1suzDlZa2VKaf2SVbwCqwgAcM49TOIdTq5eZWklRJ1BAAAAAElFTkSuQmCC"/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,270,420)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAChJREFUKJFjYBj6gBFK/8chjgGYYIzNmzczbN68maANTARVUOqk4QAA47IGOfRGCOcAAAAASUVORK5CYII="/>
-        </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(-1,0,0,1,230,430)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAChJREFUKJFjYBj6gBFK/8chjgGYYIzNmzczbN68maANTARVUOqk4QAA47IGOfRGCOcAAAAASUVORK5CYII="/>
         </g>
         <g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,230,415)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
@@ -2472,40 +2481,40 @@
           <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="93" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">Converter v1a</text>
         </g>
       </g>
-      <g id="prop.model_tugas3/Rangkaian Soal A/V1A" class="proptable" display="none" pointer-events="none" extent_Height="86" extent_Width="120" preferred_X="465" preferred_Y="470">
-        <rect x="0" y="0" width="120" height="86" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
+      <g id="prop.model_tugas3/Rangkaian Soal A/V1A" class="proptable" display="none" pointer-events="none" extent_Height="86" extent_Width="113" preferred_X="470" preferred_Y="470">
+        <rect x="0" y="0" width="113" height="86" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
         <text x="3" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">VariableName</text>
         <text x="68.5" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">v1_soalA</text>
-        <rect x="0" y="15" width="120" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <rect x="0" y="15" width="113" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
         <text x="3" y="26" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">MaxDataPoints</text>
         <text x="68.5" y="26" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">inf</text>
         <text x="3" y="40" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">Decimation</text>
         <text x="68.5" y="40" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">1</text>
-        <rect x="0" y="43" width="120" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <rect x="0" y="43" width="113" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
         <text x="3" y="54" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">SampleTime</text>
         <text x="68.5" y="54" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">-1</text>
         <text x="3" y="68" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">SaveFormat</text>
-        <text x="68.5" y="68" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">Timeseries</text>
-        <rect x="0" y="71" width="120" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <text x="68.5" y="68" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">Array</text>
+        <rect x="0" y="71" width="113" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
         <text x="3" y="82" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">FixptAsFi</text>
         <text x="68.5" y="82" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">off</text>
-        <rect x="0" y="0" width="120" height="86" rx="4" ry="4" stroke="rgb(0%,0%,0%)" fill="none"/>
+        <rect x="0" y="0" width="113" height="86" rx="4" ry="4" stroke="rgb(0%,0%,0%)" fill="none"/>
       </g>
       <g id="model_tugas3/Rangkaian Soal A/V1A" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
         <title id="title.model_tugas3/Rangkaian Soal A/V1A">V1A</title>
         <g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,400,465)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M0,0 L60,0 L60,30 L0,30 L0,0z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M0,0 L65,0 L65,30 L0,30 L0,0z "/>
         </g>
-        <g fill="#ffffff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(2,0,0,2,430,480)" font-family="Helvetica" font-size="5" font-weight="400" font-style="normal">
+        <g fill="#ffffff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(2,0,0,2,432,480)" font-family="Helvetica" font-size="5" font-weight="400" font-style="normal">
           <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="-10.5" y="1.5" font-family="Helvetica" font-size="5" font-weight="400" font-style="normal">v1_soalA</text>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,400,465)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M0,0 L60,0 L60,30 L0,30 L0,0z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M0,0 L65,0 L65,30 L0,30 L0,0z "/>
         </g>
-        <g fill="none" stroke="none" transform="matrix(1,0,0,1,430,497)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+        <g fill="none" stroke="none" transform="matrix(1,0,0,1,432.5,497)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M-10.75,0 L10.75,0 L10.75,15 L-10.75,15 L-10.75,0z "/>
         </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,419.25,497)" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,421.75,497)" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">
           <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="41" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">V1A</text>
         </g>
       </g>
@@ -2543,11 +2552,11 @@
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(-1,0,0,1,775,295)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAChJREFUKJFjYBj6gBFK/8chjgGYYIzNmzczbN68maANTARVUOqk4QAA47IGOfRGCOcAAAAASUVORK5CYII="/>
         </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,815,305)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAHRJREFUKJGdjkEKAyEQBBt9gF51fMz+VMWfZK/Jb/bmQO8pCwlEJlswtyp6gDt473cA2z8NSylHjPFlDamqHGNQREwh36gqe+8UkSOE8PwV8htVZWuNOeeP0C0mr1suzDlZa2VKaf2SVbwCqwgAcM49TOIdTq5eZWklRJ1BAAAAAElFTkSuQmCC"/>
-        </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,815,285)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAChJREFUKJFjYBj6gBFK/8chjgGYYIzNmzczbN68maANTARVUOqk4QAA47IGOfRGCOcAAAAASUVORK5CYII="/>
+        </g>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,815,305)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAHRJREFUKJGdjkEKAyEQBBt9gF51fMz+VMWfZK/Jb/bmQO8pCwlEJlswtyp6gDt473cA2z8NSylHjPFlDamqHGNQREwh36gqe+8UkSOE8PwV8htVZWuNOeeP0C0mr1suzDlZa2VKaf2SVbwCqwgAcM49TOIdTq5eZWklRJ1BAAAAAElFTkSuQmCC"/>
         </g>
         <g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,775,280)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M0,0 L40,0 L40,40 L0,40 L0,0z "/>
@@ -2854,24 +2863,24 @@
           <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="93" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">Converter v2a</text>
         </g>
       </g>
-      <g id="prop.model_tugas3/Rangkaian Soal A/V2A" class="proptable" display="none" pointer-events="none" extent_Height="86" extent_Width="120" preferred_X="1030" preferred_Y="290">
-        <rect x="0" y="0" width="120" height="86" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
+      <g id="prop.model_tugas3/Rangkaian Soal A/V2A" class="proptable" display="none" pointer-events="none" extent_Height="86" extent_Width="113" preferred_X="1030" preferred_Y="290">
+        <rect x="0" y="0" width="113" height="86" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
         <text x="3" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">VariableName</text>
         <text x="68.5" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">v2_soalA</text>
-        <rect x="0" y="15" width="120" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <rect x="0" y="15" width="113" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
         <text x="3" y="26" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">MaxDataPoints</text>
         <text x="68.5" y="26" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">inf</text>
         <text x="3" y="40" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">Decimation</text>
         <text x="68.5" y="40" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">1</text>
-        <rect x="0" y="43" width="120" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <rect x="0" y="43" width="113" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
         <text x="3" y="54" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">SampleTime</text>
         <text x="68.5" y="54" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">-1</text>
         <text x="3" y="68" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">SaveFormat</text>
-        <text x="68.5" y="68" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">Timeseries</text>
-        <rect x="0" y="71" width="120" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <text x="68.5" y="68" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">Array</text>
+        <rect x="0" y="71" width="113" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
         <text x="3" y="82" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">FixptAsFi</text>
         <text x="68.5" y="82" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">off</text>
-        <rect x="0" y="0" width="120" height="86" rx="4" ry="4" stroke="rgb(0%,0%,0%)" fill="none"/>
+        <rect x="0" y="0" width="113" height="86" rx="4" ry="4" stroke="rgb(0%,0%,0%)" fill="none"/>
       </g>
       <g id="model_tugas3/Rangkaian Soal A/V2A" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
         <title id="title.model_tugas3/Rangkaian Soal A/V2A">V2A</title>
@@ -2914,13 +2923,16 @@
           <path vector-effect="none" fill-rule="evenodd" d="M0,1 L88,1 L88,29 L0,29 L0,1z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,400,525)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M0,6 C0,2.68629 2.68629,0 6,0 L70.25,0 C73.5637,0 76.25,2.68629 76.25,6 L76.25,15 C76.25,18.3137 73.5637,21 70.25,21 L6,21 C2.68629,21 0,18.3137 0,15 L0,6z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M0,6 C0,2.68629 2.68629,0 6,0 L68,0 C71.3137,0 74,2.68629 74,6 L74,15 C74,18.3137 71.3137,21 68,21 L6,21 C2.68629,21 0,18.3137 0,15 L0,6z "/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,403,528)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M0,0 L68,0 L68,15 L0,15 L0,0z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,471,535.5)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M0.25,-7.5 L2.25,-7.5 L2.25,7.5 L0.25,7.5 L0.25,-7.5z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M-15.75,-7.5 L0,-7.5 L0,7.5 L-15.75,7.5 L-15.75,-7.5z "/>
+        </g>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,455.25,528)" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">
+          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="41" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">5.4</text>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,445,557)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M-26.875,0 L26.875,0 L26.875,15 L-26.875,15 L-26.875,0z "/>
@@ -2952,13 +2964,16 @@
           <path vector-effect="none" fill-rule="evenodd" d="M0,1 L88,1 L88,29 L0,29 L0,1z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,965,340)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M0,6 C0,2.68629 2.68629,0 6,0 L70.25,0 C73.5637,0 76.25,2.68629 76.25,6 L76.25,15 C76.25,18.3137 73.5637,21 70.25,21 L6,21 C2.68629,21 0,18.3137 0,15 L0,6z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M0,6 C0,2.68629 2.68629,0 6,0 L68,0 C71.3137,0 74,2.68629 74,6 L74,15 C74,18.3137 71.3137,21 68,21 L6,21 C2.68629,21 0,18.3137 0,15 L0,6z "/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,968,343)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M0,0 L68,0 L68,15 L0,15 L0,0z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,1036,350.5)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M0.25,-7.5 L2.25,-7.5 L2.25,7.5 L0.25,7.5 L0.25,-7.5z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M-15.75,-7.5 L0,-7.5 L0,7.5 L-15.75,7.5 L-15.75,-7.5z "/>
+        </g>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,1020.25,343)" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">
+          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="41" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">1.8</text>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,1010,372)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M-26.875,0 L26.875,0 L26.875,15 L-26.875,15 L-26.875,0z "/>
@@ -2998,13 +3013,13 @@
       </g>
       <g id="model_tugas3/Rangkaian Soal A/Voltage Sensor V3A" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
         <title id="title.model_tugas3/Rangkaian Soal A/Voltage Sensor V3A">Voltage Sensor V3A</title>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1160,295)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(-1,0,0,1,1120,305)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAChJREFUKJFjYBj6gBFK/8chjgGYYIzNmzczbN68maANTARVUOqk4QAA47IGOfRGCOcAAAAASUVORK5CYII="/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1160,315)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAHRJREFUKJGdjkEKAyEQBBt9gF51fMz+VMWfZK/Jb/bmQO8pCwlEJlswtyp6gDt473cA2z8NSylHjPFlDamqHGNQREwh36gqe+8UkSOE8PwV8htVZWuNOeeP0C0mr1suzDlZa2VKaf2SVbwCqwgAcM49TOIdTq5eZWklRJ1BAAAAAElFTkSuQmCC"/>
         </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(-1,0,0,1,1120,305)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1160,295)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAChJREFUKJFjYBj6gBFK/8chjgGYYIzNmzczbN68maANTARVUOqk4QAA47IGOfRGCOcAAAAASUVORK5CYII="/>
         </g>
         <g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,1120,290)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
@@ -3372,13 +3387,16 @@
           <path vector-effect="none" fill-rule="evenodd" d="M0,1 L88,1 L88,29 L0,29 L0,1z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,1300,340)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M0,6 C0,2.68629 2.68629,0 6,0 L70.25,0 C73.5637,0 76.25,2.68629 76.25,6 L76.25,15 C76.25,18.3137 73.5637,21 70.25,21 L6,21 C2.68629,21 0,18.3137 0,15 L0,6z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M0,6 C0,2.68629 2.68629,0 6,0 L68,0 C71.3137,0 74,2.68629 74,6 L74,15 C74,18.3137 71.3137,21 68,21 L6,21 C2.68629,21 0,18.3137 0,15 L0,6z "/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,1303,343)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M0,0 L68,0 L68,15 L0,15 L0,0z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,1371,350.5)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M0.25,-7.5 L2.25,-7.5 L2.25,7.5 L0.25,7.5 L0.25,-7.5z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M-15.75,-7.5 L0,-7.5 L0,7.5 L-15.75,7.5 L-15.75,-7.5z "/>
+        </g>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,1355.25,343)" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">
+          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="41" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">1.8</text>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,1345,372)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M-26.875,0 L26.875,0 L26.875,15 L-26.875,15 L-26.875,0z "/>
@@ -3418,11 +3436,11 @@
       </g>
       <g id="model_tugas3/Rangkaian Soal A/Voltage Sensor V4A" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
         <title id="title.model_tugas3/Rangkaian Soal A/Voltage Sensor V4A">Voltage Sensor V4A</title>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(-1,0,0,1,950,555)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAChJREFUKJFjYBj6gBFK/8chjgGYYIzNmzczbN68maANTARVUOqk4QAA47IGOfRGCOcAAAAASUVORK5CYII="/>
-        </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,990,565)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAHRJREFUKJGdjkEKAyEQBBt9gF51fMz+VMWfZK/Jb/bmQO8pCwlEJlswtyp6gDt473cA2z8NSylHjPFlDamqHGNQREwh36gqe+8UkSOE8PwV8htVZWuNOeeP0C0mr1suzDlZa2VKaf2SVbwCqwgAcM49TOIdTq5eZWklRJ1BAAAAAElFTkSuQmCC"/>
+        </g>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(-1,0,0,1,950,555)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAChJREFUKJFjYBj6gBFK/8chjgGYYIzNmzczbN68maANTARVUOqk4QAA47IGOfRGCOcAAAAASUVORK5CYII="/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,990,545)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <image x="-1" y="-1" width="12" height="12" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAChJREFUKJFjYBj6gBFK/8chjgGYYIzNmzczbN68maANTARVUOqk4QAA47IGOfRGCOcAAAAASUVORK5CYII="/>
@@ -3732,24 +3750,24 @@
           <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="93" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">Converter v4a</text>
         </g>
       </g>
-      <g id="prop.model_tugas3/Rangkaian Soal A/V4A" class="proptable" display="none" pointer-events="none" extent_Height="86" extent_Width="120" preferred_X="1210" preferred_Y="560">
-        <rect x="0" y="0" width="120" height="86" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
+      <g id="prop.model_tugas3/Rangkaian Soal A/V4A" class="proptable" display="none" pointer-events="none" extent_Height="86" extent_Width="113" preferred_X="1210" preferred_Y="560">
+        <rect x="0" y="0" width="113" height="86" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
         <text x="3" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">VariableName</text>
         <text x="68.5" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">v4_soalA</text>
-        <rect x="0" y="15" width="120" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <rect x="0" y="15" width="113" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
         <text x="3" y="26" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">MaxDataPoints</text>
         <text x="68.5" y="26" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">inf</text>
         <text x="3" y="40" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">Decimation</text>
         <text x="68.5" y="40" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">1</text>
-        <rect x="0" y="43" width="120" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <rect x="0" y="43" width="113" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
         <text x="3" y="54" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">SampleTime</text>
         <text x="68.5" y="54" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">-1</text>
         <text x="3" y="68" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">SaveFormat</text>
-        <text x="68.5" y="68" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">Timeseries</text>
-        <rect x="0" y="71" width="120" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <text x="68.5" y="68" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">Array</text>
+        <rect x="0" y="71" width="113" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
         <text x="3" y="82" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">FixptAsFi</text>
         <text x="68.5" y="82" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">off</text>
-        <rect x="0" y="0" width="120" height="86" rx="4" ry="4" stroke="rgb(0%,0%,0%)" fill="none"/>
+        <rect x="0" y="0" width="113" height="86" rx="4" ry="4" stroke="rgb(0%,0%,0%)" fill="none"/>
       </g>
       <g id="model_tugas3/Rangkaian Soal A/V4A" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill">
         <title id="title.model_tugas3/Rangkaian Soal A/V4A">V4A</title>
@@ -3792,13 +3810,16 @@
           <path vector-effect="none" fill-rule="evenodd" d="M0,1 L88,1 L88,29 L0,29 L0,1z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,1145,605)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M0,6 C0,2.68629 2.68629,0 6,0 L70.25,0 C73.5637,0 76.25,2.68629 76.25,6 L76.25,15 C76.25,18.3137 73.5637,21 70.25,21 L6,21 C2.68629,21 0,18.3137 0,15 L0,6z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M0,6 C0,2.68629 2.68629,0 6,0 L68,0 C71.3137,0 74,2.68629 74,6 L74,15 C74,18.3137 71.3137,21 68,21 L6,21 C2.68629,21 0,18.3137 0,15 L0,6z "/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,1148,608)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M0,0 L68,0 L68,15 L0,15 L0,0z "/>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,1216,615.5)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M0.25,-7.5 L2.25,-7.5 L2.25,7.5 L0.25,7.5 L0.25,-7.5z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M-15.75,-7.5 L0,-7.5 L0,7.5 L-15.75,7.5 L-15.75,-7.5z "/>
+        </g>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.25,0,0,0.25,1200.25,608)" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">
+          <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="41" font-family="Helvetica" font-size="40" font-weight="400" font-style="normal">3.6</text>
         </g>
         <g fill="none" stroke="none" transform="matrix(1,0,0,1,1190,637)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M-26.875,0 L26.875,0 L26.875,15 L-26.875,15 L-26.875,0z "/>
@@ -3841,19 +3862,56 @@
       <g id="model_tugas3/Rangkaian Soal A/_uniq_id_0" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill,stroke">
         <title id="title.model_tugas3/Rangkaian Soal A/_uniq_id_0"/>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M300,310 L337,310"/>
+          <path vector-effect="none" fill-rule="evenodd" d="M772,300 L743,300 L743,195"/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M288,310 L300,310"/>
+          <path vector-effect="none" fill-rule="evenodd" d="M743,195 L757,195"/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M273,425 L300,425 L300,310"/>
+          <path vector-effect="none" fill-rule="evenodd" d="M663,195 L743,195"/>
         </g>
-        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,300,310)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,743,195)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M2,0 C2,1.10457 1.10457,2 0,2 C-1.10457,2 -2,1.10457 -2,0 C-2,-1.10457 -1.10457,-2 0,-2 C1.10457,-2 2,-1.10457 2,0 z "/>
         </g>
       </g>
-      <g id="prop.model_tugas3/Rangkaian Soal A/_uniq_id_1" class="proptable" display="none" pointer-events="none" extent_Height="170" extent_Width="196.5" preferred_X="5" preferred_Y="5">
+      <g id="prop.model_tugas3/Rangkaian Soal A/_uniq_id_1" class="proptable" display="none" pointer-events="none" extent_Height="156" extent_Width="137.5" preferred_X="5" preferred_Y="5">
+        <rect x="0" y="0" width="137.5" height="156" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
+        <text x="3" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLogging</text>
+        <text x="122" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
+        <rect x="0" y="15" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <text x="3" y="26" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingNameMode</text>
+        <text x="122" y="26" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
+        <text x="3" y="40" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">UserSpecifiedLogName</text>
+        <text x="122" y="40" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9"/>
+        <rect x="0" y="43" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <text x="3" y="54" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingDecimateData</text>
+        <text x="122" y="54" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
+        <text x="3" y="68" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingDecimation</text>
+        <text x="122" y="68" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9"/>
+        <rect x="0" y="71" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <text x="3" y="82" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingLimitDataPoints</text>
+        <text x="122" y="82" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
+        <text x="3" y="96" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingMaxPoints</text>
+        <text x="122" y="96" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9"/>
+        <rect x="0" y="99" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <text x="3" y="110" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">TestPoint</text>
+        <text x="122" y="110" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
+        <text x="3" y="124" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">SignalPropagation</text>
+        <text x="122" y="124" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
+        <rect x="0" y="127" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <text x="3" y="138" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">MustResolveToSignalObject</text>
+        <text x="122" y="138" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
+        <text x="3" y="152" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">StorageClass</text>
+        <text x="122" y="152" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
+        <rect x="0" y="0" width="137.5" height="156" rx="4" ry="4" stroke="rgb(0%,0%,0%)" fill="none"/>
+      </g>
+      <g id="model_tugas3/Rangkaian Soal A/_uniq_id_1" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill,stroke">
+        <title id="title.model_tugas3/Rangkaian Soal A/_uniq_id_1"/>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M999,570 L1025,570 L1025,600 L1031,600"/>
+        </g>
+      </g>
+      <g id="prop.model_tugas3/Rangkaian Soal A/_uniq_id_2" class="proptable" display="none" pointer-events="none" extent_Height="170" extent_Width="196.5" preferred_X="5" preferred_Y="5">
         <rect x="0" y="0" width="196.5" height="170" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
         <text x="3" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLogging</text>
         <text x="122" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">0</text>
@@ -3887,97 +3945,24 @@
         <text x="122" y="166" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9"/>
         <rect x="0" y="0" width="196.5" height="170" rx="4" ry="4" stroke="rgb(0%,0%,0%)" fill="none"/>
       </g>
-      <g id="model_tugas3/Rangkaian Soal A/_uniq_id_1" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill,stroke">
-        <title id="title.model_tugas3/Rangkaian Soal A/_uniq_id_1"/>
-        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,825,70)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="nonzero" d="M0,0 L-8,-4 L-8,4 L0,0z "/>
-        </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M782,95 L782,70 L817,70"/>
-        </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M765,95 L782,95"/>
-        </g>
-        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,825,130)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="nonzero" d="M0,0 L-8,-4 L-8,4 L0,0z "/>
-        </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M782,95 L782,130 L817,130"/>
-        </g>
-        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,782,95)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M2,0 C2,1.10457 1.10457,2 0,2 C-1.10457,2 -2,1.10457 -2,0 C-2,-1.10457 -1.10457,-2 0,-2 C1.10457,-2 2,-1.10457 2,0 z "/>
-        </g>
-      </g>
-      <g id="prop.model_tugas3/Rangkaian Soal A/_uniq_id_2" class="proptable" display="none" pointer-events="none" extent_Height="156" extent_Width="137.5" preferred_X="5" preferred_Y="5">
-        <rect x="0" y="0" width="137.5" height="156" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
-        <text x="3" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLogging</text>
-        <text x="122" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
-        <rect x="0" y="15" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
-        <text x="3" y="26" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingNameMode</text>
-        <text x="122" y="26" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
-        <text x="3" y="40" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">UserSpecifiedLogName</text>
-        <text x="122" y="40" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9"/>
-        <rect x="0" y="43" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
-        <text x="3" y="54" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingDecimateData</text>
-        <text x="122" y="54" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
-        <text x="3" y="68" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingDecimation</text>
-        <text x="122" y="68" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9"/>
-        <rect x="0" y="71" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
-        <text x="3" y="82" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingLimitDataPoints</text>
-        <text x="122" y="82" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
-        <text x="3" y="96" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingMaxPoints</text>
-        <text x="122" y="96" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9"/>
-        <rect x="0" y="99" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
-        <text x="3" y="110" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">TestPoint</text>
-        <text x="122" y="110" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
-        <text x="3" y="124" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">SignalPropagation</text>
-        <text x="122" y="124" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
-        <rect x="0" y="127" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
-        <text x="3" y="138" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">MustResolveToSignalObject</text>
-        <text x="122" y="138" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
-        <text x="3" y="152" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">StorageClass</text>
-        <text x="122" y="152" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
-        <rect x="0" y="0" width="137.5" height="156" rx="4" ry="4" stroke="rgb(0%,0%,0%)" fill="none"/>
-      </g>
       <g id="model_tugas3/Rangkaian Soal A/_uniq_id_2" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill,stroke">
         <title id="title.model_tugas3/Rangkaian Soal A/_uniq_id_2"/>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M1030,465 L1018,465"/>
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,965,300)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="nonzero" d="M0,0 L-8,-4 L-8,4 L0,0z "/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M1419,335 L1419,465 L1030,465"/>
+          <path vector-effect="none" fill-rule="evenodd" d="M942,335 L942,300 L957,300"/>
+        </g>
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,965,355)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="nonzero" d="M0,0 L-8,-4 L-8,4 L0,0z "/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M318,710 L395,710"/>
+          <path vector-effect="none" fill-rule="evenodd" d="M942,335 L942,355 L957,355"/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M395,710 L1465,710 L1465,335 L1419,335"/>
+          <path vector-effect="none" fill-rule="evenodd" d="M915,335 L942,335"/>
         </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M993,550 L1030,550 L1030,465"/>
-        </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M1183,195 L1195,195"/>
-        </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M1195,195 L1419,195 L1419,335"/>
-        </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M1163,300 L1195,300 L1195,195"/>
-        </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M395,752 L395,710"/>
-        </g>
-        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,1195,195)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M2,0 C2,1.10457 1.10457,2 0,2 C-1.10457,2 -2,1.10457 -2,0 C-2,-1.10457 -1.10457,-2 0,-2 C1.10457,-2 2,-1.10457 2,0 z "/>
-        </g>
-        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,1419,335)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M2,0 C2,1.10457 1.10457,2 0,2 C-1.10457,2 -2,1.10457 -2,0 C-2,-1.10457 -1.10457,-2 0,-2 C1.10457,-2 2,-1.10457 2,0 z "/>
-        </g>
-        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,395,710)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M2,0 C2,1.10457 1.10457,2 0,2 C-1.10457,2 -2,1.10457 -2,0 C-2,-1.10457 -1.10457,-2 0,-2 C1.10457,-2 2,-1.10457 2,0 z "/>
-        </g>
-        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,1030,465)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,942,335)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M2,0 C2,1.10457 1.10457,2 0,2 C-1.10457,2 -2,1.10457 -2,0 C-2,-1.10457 -1.10457,-2 0,-2 C1.10457,-2 2,-1.10457 2,0 z "/>
         </g>
       </g>
@@ -4015,7 +4000,7 @@
       <g id="model_tugas3/Rangkaian Soal A/_uniq_id_3" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill,stroke">
         <title id="title.model_tugas3/Rangkaian Soal A/_uniq_id_3"/>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M999,570 L1025,570 L1025,600 L1031,600"/>
+          <path vector-effect="none" fill-rule="evenodd" d="M649,445 L666,445 L666,395 L681,395"/>
         </g>
       </g>
       <g id="prop.model_tugas3/Rangkaian Soal A/_uniq_id_4" class="proptable" display="none" pointer-events="none" extent_Height="156" extent_Width="137.5" preferred_X="5" preferred_Y="5">
@@ -4052,117 +4037,108 @@
       <g id="model_tugas3/Rangkaian Soal A/_uniq_id_4" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill,stroke">
         <title id="title.model_tugas3/Rangkaian Soal A/_uniq_id_4"/>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M824,310 L848,310 L848,335 L876,335"/>
+          <path vector-effect="none" fill-rule="evenodd" d="M643,465 L915,465"/>
+        </g>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M915,465 L927,465"/>
+        </g>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M947,560 L915,560 L915,465"/>
+        </g>
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,915,465)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M2,0 C2,1.10457 1.10457,2 0,2 C-1.10457,2 -2,1.10457 -2,0 C-2,-1.10457 -1.10457,-2 0,-2 C1.10457,-2 2,-1.10457 2,0 z "/>
         </g>
       </g>
-      <g id="prop.model_tugas3/Rangkaian Soal A/_uniq_id_5" class="proptable" display="none" pointer-events="none" extent_Height="170" extent_Width="196.5" preferred_X="5" preferred_Y="5">
-        <rect x="0" y="0" width="196.5" height="170" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
+      <g id="prop.model_tugas3/Rangkaian Soal A/_uniq_id_5" class="proptable" display="none" pointer-events="none" extent_Height="156" extent_Width="137.5" preferred_X="5" preferred_Y="5">
+        <rect x="0" y="0" width="137.5" height="156" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
         <text x="3" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLogging</text>
-        <text x="122" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">0</text>
-        <rect x="0" y="15" width="196.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <text x="122" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
+        <rect x="0" y="15" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
         <text x="3" y="26" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingNameMode</text>
-        <text x="122" y="26" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">Use signal name</text>
+        <text x="122" y="26" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
         <text x="3" y="40" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">UserSpecifiedLogName</text>
         <text x="122" y="40" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9"/>
-        <rect x="0" y="43" width="196.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <rect x="0" y="43" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
         <text x="3" y="54" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingDecimateData</text>
-        <text x="122" y="54" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">0</text>
+        <text x="122" y="54" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
         <text x="3" y="68" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingDecimation</text>
-        <text x="122" y="68" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">2</text>
-        <rect x="0" y="71" width="196.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <text x="122" y="68" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9"/>
+        <rect x="0" y="71" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
         <text x="3" y="82" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingLimitDataPoints</text>
-        <text x="122" y="82" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">0</text>
+        <text x="122" y="82" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
         <text x="3" y="96" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingMaxPoints</text>
-        <text x="122" y="96" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">5000</text>
-        <rect x="0" y="99" width="196.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <text x="122" y="96" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9"/>
+        <rect x="0" y="99" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
         <text x="3" y="110" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">TestPoint</text>
-        <text x="122" y="110" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">0</text>
+        <text x="122" y="110" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
         <text x="3" y="124" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">SignalPropagation</text>
-        <text x="122" y="124" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">off</text>
-        <rect x="0" y="127" width="196.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <text x="122" y="124" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
+        <rect x="0" y="127" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
         <text x="3" y="138" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">MustResolveToSignalObject</text>
-        <text x="122" y="138" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">0</text>
+        <text x="122" y="138" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
         <text x="3" y="152" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">StorageClass</text>
-        <text x="122" y="152" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">Auto</text>
-        <rect x="0" y="155" width="196.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
-        <text x="3" y="166" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">RTWStorageTypeQualifier</text>
-        <text x="122" y="166" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9"/>
-        <rect x="0" y="0" width="196.5" height="170" rx="4" ry="4" stroke="rgb(0%,0%,0%)" fill="none"/>
+        <text x="122" y="152" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
+        <rect x="0" y="0" width="137.5" height="156" rx="4" ry="4" stroke="rgb(0%,0%,0%)" fill="none"/>
       </g>
       <g id="model_tugas3/Rangkaian Soal A/_uniq_id_5" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill,stroke">
         <title id="title.model_tugas3/Rangkaian Soal A/_uniq_id_5"/>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M915,335 L942,335"/>
-        </g>
-        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,965,355)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="nonzero" d="M0,0 L-8,-4 L-8,4 L0,0z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M200,310 L212,310"/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M942,335 L942,355 L957,355"/>
-        </g>
-        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,965,300)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="nonzero" d="M0,0 L-8,-4 L-8,4 L0,0z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M133,585 L133,310 L200,310"/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M942,335 L942,300 L957,300"/>
+          <path vector-effect="none" fill-rule="evenodd" d="M108,585 L133,585"/>
         </g>
-        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,942,335)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M227,435 L200,435 L200,310"/>
+        </g>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M217,710 L133,710 L133,585"/>
+        </g>
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,133,585)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M2,0 C2,1.10457 1.10457,2 0,2 C-1.10457,2 -2,1.10457 -2,0 C-2,-1.10457 -1.10457,-2 0,-2 C1.10457,-2 2,-1.10457 2,0 z "/>
+        </g>
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,200,310)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M2,0 C2,1.10457 1.10457,2 0,2 C-1.10457,2 -2,1.10457 -2,0 C-2,-1.10457 -1.10457,-2 0,-2 C1.10457,-2 2,-1.10457 2,0 z "/>
         </g>
       </g>
-      <g id="prop.model_tugas3/Rangkaian Soal A/_uniq_id_6" class="proptable" display="none" pointer-events="none" extent_Height="170" extent_Width="196.5" preferred_X="5" preferred_Y="5">
-        <rect x="0" y="0" width="196.5" height="170" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
+      <g id="prop.model_tugas3/Rangkaian Soal A/_uniq_id_6" class="proptable" display="none" pointer-events="none" extent_Height="156" extent_Width="137.5" preferred_X="5" preferred_Y="5">
+        <rect x="0" y="0" width="137.5" height="156" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
         <text x="3" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLogging</text>
-        <text x="122" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">0</text>
-        <rect x="0" y="15" width="196.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <text x="122" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
+        <rect x="0" y="15" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
         <text x="3" y="26" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingNameMode</text>
-        <text x="122" y="26" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">Use signal name</text>
+        <text x="122" y="26" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
         <text x="3" y="40" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">UserSpecifiedLogName</text>
         <text x="122" y="40" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9"/>
-        <rect x="0" y="43" width="196.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <rect x="0" y="43" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
         <text x="3" y="54" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingDecimateData</text>
-        <text x="122" y="54" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">0</text>
+        <text x="122" y="54" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
         <text x="3" y="68" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingDecimation</text>
-        <text x="122" y="68" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">2</text>
-        <rect x="0" y="71" width="196.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <text x="122" y="68" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9"/>
+        <rect x="0" y="71" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
         <text x="3" y="82" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingLimitDataPoints</text>
-        <text x="122" y="82" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">0</text>
+        <text x="122" y="82" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
         <text x="3" y="96" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingMaxPoints</text>
-        <text x="122" y="96" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">5000</text>
-        <rect x="0" y="99" width="196.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <text x="122" y="96" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9"/>
+        <rect x="0" y="99" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
         <text x="3" y="110" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">TestPoint</text>
-        <text x="122" y="110" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">0</text>
+        <text x="122" y="110" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
         <text x="3" y="124" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">SignalPropagation</text>
-        <text x="122" y="124" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">off</text>
-        <rect x="0" y="127" width="196.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <text x="122" y="124" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
+        <rect x="0" y="127" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
         <text x="3" y="138" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">MustResolveToSignalObject</text>
-        <text x="122" y="138" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">0</text>
+        <text x="122" y="138" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
         <text x="3" y="152" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">StorageClass</text>
-        <text x="122" y="152" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">Auto</text>
-        <rect x="0" y="155" width="196.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
-        <text x="3" y="166" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">RTWStorageTypeQualifier</text>
-        <text x="122" y="166" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9"/>
-        <rect x="0" y="0" width="196.5" height="170" rx="4" ry="4" stroke="rgb(0%,0%,0%)" fill="none"/>
+        <text x="122" y="152" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
+        <rect x="0" y="0" width="137.5" height="156" rx="4" ry="4" stroke="rgb(0%,0%,0%)" fill="none"/>
       </g>
       <g id="model_tugas3/Rangkaian Soal A/_uniq_id_6" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill,stroke">
         <title id="title.model_tugas3/Rangkaian Soal A/_uniq_id_6"/>
-        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,780,370)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="nonzero" d="M0,0 L-8,-4 L-8,4 L0,0z "/>
-        </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M759,395 L759,370 L772,370"/>
-        </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M720,395 L759,395"/>
-        </g>
-        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,780,420)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="nonzero" d="M0,0 L-8,-4 L-8,4 L0,0z "/>
-        </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M759,395 L759,420 L772,420"/>
-        </g>
-        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,759,395)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M2,0 C2,1.10457 1.10457,2 0,2 C-1.10457,2 -2,1.10457 -2,0 C-2,-1.10457 -1.10457,-2 0,-2 C1.10457,-2 2,-1.10457 2,0 z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M389,300 L425,300 L425,95 L461,95"/>
         </g>
       </g>
       <g id="prop.model_tugas3/Rangkaian Soal A/_uniq_id_7" class="proptable" display="none" pointer-events="none" extent_Height="156" extent_Width="137.5" preferred_X="5" preferred_Y="5">
@@ -4199,16 +4175,7 @@
       <g id="model_tugas3/Rangkaian Soal A/_uniq_id_7" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill,stroke">
         <title id="title.model_tugas3/Rangkaian Soal A/_uniq_id_7"/>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M947,560 L915,560 L915,465"/>
-        </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M915,465 L927,465"/>
-        </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M643,465 L915,465"/>
-        </g>
-        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,915,465)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M2,0 C2,1.10457 1.10457,2 0,2 C-1.10457,2 -2,1.10457 -2,0 C-2,-1.10457 -1.10457,-2 0,-2 C1.10457,-2 2,-1.10457 2,0 z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M669,175 L701,175 L701,95 L726,95"/>
         </g>
       </g>
       <g id="prop.model_tugas3/Rangkaian Soal A/_uniq_id_8" class="proptable" display="none" pointer-events="none" extent_Height="156" extent_Width="137.5" preferred_X="5" preferred_Y="5">
@@ -4245,7 +4212,43 @@
       <g id="model_tugas3/Rangkaian Soal A/_uniq_id_8" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill,stroke">
         <title id="title.model_tugas3/Rangkaian Soal A/_uniq_id_8"/>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M669,175 L701,175 L701,95 L726,95"/>
+          <path vector-effect="none" fill-rule="evenodd" d="M1195,195 L1419,195 L1419,335"/>
+        </g>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M395,752 L395,710"/>
+        </g>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M395,710 L1465,710 L1465,335 L1419,335"/>
+        </g>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M1030,465 L1018,465"/>
+        </g>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M993,550 L1030,550 L1030,465"/>
+        </g>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M1163,300 L1195,300 L1195,195"/>
+        </g>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M1419,335 L1419,465 L1030,465"/>
+        </g>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M318,710 L395,710"/>
+        </g>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M1183,195 L1195,195"/>
+        </g>
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,1195,195)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M2,0 C2,1.10457 1.10457,2 0,2 C-1.10457,2 -2,1.10457 -2,0 C-2,-1.10457 -1.10457,-2 0,-2 C1.10457,-2 2,-1.10457 2,0 z "/>
+        </g>
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,1419,335)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M2,0 C2,1.10457 1.10457,2 0,2 C-1.10457,2 -2,1.10457 -2,0 C-2,-1.10457 -1.10457,-2 0,-2 C1.10457,-2 2,-1.10457 2,0 z "/>
+        </g>
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,1030,465)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M2,0 C2,1.10457 1.10457,2 0,2 C-1.10457,2 -2,1.10457 -2,0 C-2,-1.10457 -1.10457,-2 0,-2 C1.10457,-2 2,-1.10457 2,0 z "/>
+        </g>
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,395,710)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M2,0 C2,1.10457 1.10457,2 0,2 C-1.10457,2 -2,1.10457 -2,0 C-2,-1.10457 -1.10457,-2 0,-2 C1.10457,-2 2,-1.10457 2,0 z "/>
         </g>
       </g>
       <g id="prop.model_tugas3/Rangkaian Soal A/_uniq_id_9" class="proptable" display="none" pointer-events="none" extent_Height="156" extent_Width="137.5" preferred_X="5" preferred_Y="5">
@@ -4282,24 +4285,15 @@
       <g id="model_tugas3/Rangkaian Soal A/_uniq_id_9" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill,stroke">
         <title id="title.model_tugas3/Rangkaian Soal A/_uniq_id_9"/>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M217,710 L133,710 L133,585"/>
+          <path vector-effect="none" fill-rule="evenodd" d="M383,320 L512,320"/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M108,585 L133,585"/>
+          <path vector-effect="none" fill-rule="evenodd" d="M617,185 L512,185 L512,320"/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M227,435 L200,435 L200,310"/>
+          <path vector-effect="none" fill-rule="evenodd" d="M512,320 L512,455 L597,455"/>
         </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M200,310 L212,310"/>
-        </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M133,585 L133,310 L200,310"/>
-        </g>
-        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,133,585)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M2,0 C2,1.10457 1.10457,2 0,2 C-1.10457,2 -2,1.10457 -2,0 C-2,-1.10457 -1.10457,-2 0,-2 C1.10457,-2 2,-1.10457 2,0 z "/>
-        </g>
-        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,200,310)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,512,320)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M2,0 C2,1.10457 1.10457,2 0,2 C-1.10457,2 -2,1.10457 -2,0 C-2,-1.10457 -1.10457,-2 0,-2 C1.10457,-2 2,-1.10457 2,0 z "/>
         </g>
       </g>
@@ -4339,22 +4333,22 @@
       </g>
       <g id="model_tugas3/Rangkaian Soal A/_uniq_id_10" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill,stroke">
         <title id="title.model_tugas3/Rangkaian Soal A/_uniq_id_10"/>
-        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,400,480)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M500,95 L529,95"/>
+        </g>
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,570,60)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="nonzero" d="M0,0 L-8,-4 L-8,4 L0,0z "/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M380,510 L380,480 L392,480"/>
+          <path vector-effect="none" fill-rule="evenodd" d="M529,95 L529,60 L562,60"/>
         </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M355,510 L380,510"/>
-        </g>
-        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,400,540)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,570,120)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="nonzero" d="M0,0 L-8,-4 L-8,4 L0,0z "/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M380,510 L380,540 L392,540"/>
+          <path vector-effect="none" fill-rule="evenodd" d="M529,95 L529,120 L562,120"/>
         </g>
-        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,380,510)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,529,95)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M2,0 C2,1.10457 1.10457,2 0,2 C-1.10457,2 -2,1.10457 -2,0 C-2,-1.10457 -1.10457,-2 0,-2 C1.10457,-2 2,-1.10457 2,0 z "/>
         </g>
       </g>
@@ -4392,62 +4386,62 @@
       <g id="model_tugas3/Rangkaian Soal A/_uniq_id_11" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill,stroke">
         <title id="title.model_tugas3/Rangkaian Soal A/_uniq_id_11"/>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M818,290 L849,290 L849,195 L850,195"/>
-        </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M1117,310 L1085,310 L1085,195"/>
-        </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M1085,195 L1097,195"/>
-        </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M838,195 L850,195"/>
-        </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M850,195 L1085,195"/>
-        </g>
-        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,850,195)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M2,0 C2,1.10457 1.10457,2 0,2 C-1.10457,2 -2,1.10457 -2,0 C-2,-1.10457 -1.10457,-2 0,-2 C1.10457,-2 2,-1.10457 2,0 z "/>
-        </g>
-        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,1085,195)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M2,0 C2,1.10457 1.10457,2 0,2 C-1.10457,2 -2,1.10457 -2,0 C-2,-1.10457 -1.10457,-2 0,-2 C1.10457,-2 2,-1.10457 2,0 z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M279,445 L305,445 L305,510 L316,510"/>
         </g>
       </g>
-      <g id="prop.model_tugas3/Rangkaian Soal A/_uniq_id_12" class="proptable" display="none" pointer-events="none" extent_Height="156" extent_Width="137.5" preferred_X="5" preferred_Y="5">
-        <rect x="0" y="0" width="137.5" height="156" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
+      <g id="prop.model_tugas3/Rangkaian Soal A/_uniq_id_12" class="proptable" display="none" pointer-events="none" extent_Height="170" extent_Width="196.5" preferred_X="5" preferred_Y="5">
+        <rect x="0" y="0" width="196.5" height="170" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
         <text x="3" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLogging</text>
-        <text x="122" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
-        <rect x="0" y="15" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <text x="122" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">0</text>
+        <rect x="0" y="15" width="196.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
         <text x="3" y="26" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingNameMode</text>
-        <text x="122" y="26" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
+        <text x="122" y="26" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">Use signal name</text>
         <text x="3" y="40" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">UserSpecifiedLogName</text>
         <text x="122" y="40" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9"/>
-        <rect x="0" y="43" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <rect x="0" y="43" width="196.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
         <text x="3" y="54" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingDecimateData</text>
-        <text x="122" y="54" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
+        <text x="122" y="54" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">0</text>
         <text x="3" y="68" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingDecimation</text>
-        <text x="122" y="68" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9"/>
-        <rect x="0" y="71" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <text x="122" y="68" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">2</text>
+        <rect x="0" y="71" width="196.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
         <text x="3" y="82" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingLimitDataPoints</text>
-        <text x="122" y="82" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
+        <text x="122" y="82" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">0</text>
         <text x="3" y="96" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingMaxPoints</text>
-        <text x="122" y="96" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9"/>
-        <rect x="0" y="99" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <text x="122" y="96" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">5000</text>
+        <rect x="0" y="99" width="196.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
         <text x="3" y="110" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">TestPoint</text>
-        <text x="122" y="110" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
+        <text x="122" y="110" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">0</text>
         <text x="3" y="124" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">SignalPropagation</text>
-        <text x="122" y="124" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
-        <rect x="0" y="127" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <text x="122" y="124" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">off</text>
+        <rect x="0" y="127" width="196.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
         <text x="3" y="138" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">MustResolveToSignalObject</text>
-        <text x="122" y="138" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
+        <text x="122" y="138" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">0</text>
         <text x="3" y="152" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">StorageClass</text>
-        <text x="122" y="152" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
-        <rect x="0" y="0" width="137.5" height="156" rx="4" ry="4" stroke="rgb(0%,0%,0%)" fill="none"/>
+        <text x="122" y="152" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">Auto</text>
+        <rect x="0" y="155" width="196.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <text x="3" y="166" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">RTWStorageTypeQualifier</text>
+        <text x="122" y="166" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9"/>
+        <rect x="0" y="0" width="196.5" height="170" rx="4" ry="4" stroke="rgb(0%,0%,0%)" fill="none"/>
       </g>
       <g id="model_tugas3/Rangkaian Soal A/_uniq_id_12" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill,stroke">
         <title id="title.model_tugas3/Rangkaian Soal A/_uniq_id_12"/>
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,825,130)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="nonzero" d="M0,0 L-8,-4 L-8,4 L0,0z "/>
+        </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M389,300 L425,300 L425,95 L461,95"/>
+          <path vector-effect="none" fill-rule="evenodd" d="M782,95 L782,130 L817,130"/>
+        </g>
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,825,70)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="nonzero" d="M0,0 L-8,-4 L-8,4 L0,0z "/>
+        </g>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M782,95 L782,70 L817,70"/>
+        </g>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M765,95 L782,95"/>
+        </g>
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,782,95)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M2,0 C2,1.10457 1.10457,2 0,2 C-1.10457,2 -2,1.10457 -2,0 C-2,-1.10457 -1.10457,-2 0,-2 C1.10457,-2 2,-1.10457 2,0 z "/>
         </g>
       </g>
       <g id="prop.model_tugas3/Rangkaian Soal A/_uniq_id_13" class="proptable" display="none" pointer-events="none" extent_Height="156" extent_Width="137.5" preferred_X="5" preferred_Y="5">
@@ -4484,93 +4478,28 @@
       <g id="model_tugas3/Rangkaian Soal A/_uniq_id_13" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill,stroke">
         <title id="title.model_tugas3/Rangkaian Soal A/_uniq_id_13"/>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M617,185 L512,185 L512,320"/>
+          <path vector-effect="none" fill-rule="evenodd" d="M838,195 L850,195"/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M383,320 L512,320"/>
+          <path vector-effect="none" fill-rule="evenodd" d="M1085,195 L1097,195"/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M512,320 L512,455 L597,455"/>
+          <path vector-effect="none" fill-rule="evenodd" d="M1117,310 L1085,310 L1085,195"/>
         </g>
-        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,512,320)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M850,195 L1085,195"/>
+        </g>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M818,290 L849,290 L849,195 L850,195"/>
+        </g>
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,1085,195)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M2,0 C2,1.10457 1.10457,2 0,2 C-1.10457,2 -2,1.10457 -2,0 C-2,-1.10457 -1.10457,-2 0,-2 C1.10457,-2 2,-1.10457 2,0 z "/>
+        </g>
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,850,195)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M2,0 C2,1.10457 1.10457,2 0,2 C-1.10457,2 -2,1.10457 -2,0 C-2,-1.10457 -1.10457,-2 0,-2 C1.10457,-2 2,-1.10457 2,0 z "/>
         </g>
       </g>
-      <g id="prop.model_tugas3/Rangkaian Soal A/_uniq_id_14" class="proptable" display="none" pointer-events="none" extent_Height="156" extent_Width="137.5" preferred_X="5" preferred_Y="5">
-        <rect x="0" y="0" width="137.5" height="156" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
-        <text x="3" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLogging</text>
-        <text x="122" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
-        <rect x="0" y="15" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
-        <text x="3" y="26" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingNameMode</text>
-        <text x="122" y="26" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
-        <text x="3" y="40" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">UserSpecifiedLogName</text>
-        <text x="122" y="40" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9"/>
-        <rect x="0" y="43" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
-        <text x="3" y="54" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingDecimateData</text>
-        <text x="122" y="54" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
-        <text x="3" y="68" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingDecimation</text>
-        <text x="122" y="68" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9"/>
-        <rect x="0" y="71" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
-        <text x="3" y="82" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingLimitDataPoints</text>
-        <text x="122" y="82" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
-        <text x="3" y="96" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingMaxPoints</text>
-        <text x="122" y="96" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9"/>
-        <rect x="0" y="99" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
-        <text x="3" y="110" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">TestPoint</text>
-        <text x="122" y="110" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
-        <text x="3" y="124" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">SignalPropagation</text>
-        <text x="122" y="124" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
-        <rect x="0" y="127" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
-        <text x="3" y="138" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">MustResolveToSignalObject</text>
-        <text x="122" y="138" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
-        <text x="3" y="152" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">StorageClass</text>
-        <text x="122" y="152" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
-        <rect x="0" y="0" width="137.5" height="156" rx="4" ry="4" stroke="rgb(0%,0%,0%)" fill="none"/>
-      </g>
-      <g id="model_tugas3/Rangkaian Soal A/_uniq_id_14" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill,stroke">
-        <title id="title.model_tugas3/Rangkaian Soal A/_uniq_id_14"/>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M1169,320 L1188,320 L1188,340 L1206,340"/>
-        </g>
-      </g>
-      <g id="prop.model_tugas3/Rangkaian Soal A/_uniq_id_15" class="proptable" display="none" pointer-events="none" extent_Height="156" extent_Width="137.5" preferred_X="5" preferred_Y="5">
-        <rect x="0" y="0" width="137.5" height="156" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
-        <text x="3" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLogging</text>
-        <text x="122" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
-        <rect x="0" y="15" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
-        <text x="3" y="26" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingNameMode</text>
-        <text x="122" y="26" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
-        <text x="3" y="40" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">UserSpecifiedLogName</text>
-        <text x="122" y="40" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9"/>
-        <rect x="0" y="43" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
-        <text x="3" y="54" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingDecimateData</text>
-        <text x="122" y="54" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
-        <text x="3" y="68" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingDecimation</text>
-        <text x="122" y="68" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9"/>
-        <rect x="0" y="71" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
-        <text x="3" y="82" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingLimitDataPoints</text>
-        <text x="122" y="82" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
-        <text x="3" y="96" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingMaxPoints</text>
-        <text x="122" y="96" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9"/>
-        <rect x="0" y="99" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
-        <text x="3" y="110" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">TestPoint</text>
-        <text x="122" y="110" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
-        <text x="3" y="124" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">SignalPropagation</text>
-        <text x="122" y="124" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
-        <rect x="0" y="127" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
-        <text x="3" y="138" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">MustResolveToSignalObject</text>
-        <text x="122" y="138" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
-        <text x="3" y="152" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">StorageClass</text>
-        <text x="122" y="152" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
-        <rect x="0" y="0" width="137.5" height="156" rx="4" ry="4" stroke="rgb(0%,0%,0%)" fill="none"/>
-      </g>
-      <g id="model_tugas3/Rangkaian Soal A/_uniq_id_15" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill,stroke">
-        <title id="title.model_tugas3/Rangkaian Soal A/_uniq_id_15"/>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M649,445 L666,445 L666,395 L681,395"/>
-        </g>
-      </g>
-      <g id="prop.model_tugas3/Rangkaian Soal A/_uniq_id_16" class="proptable" display="none" pointer-events="none" extent_Height="170" extent_Width="196.5" preferred_X="5" preferred_Y="5">
+      <g id="prop.model_tugas3/Rangkaian Soal A/_uniq_id_14" class="proptable" display="none" pointer-events="none" extent_Height="170" extent_Width="196.5" preferred_X="5" preferred_Y="5">
         <rect x="0" y="0" width="196.5" height="170" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
         <text x="3" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLogging</text>
         <text x="122" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">0</text>
@@ -4604,25 +4533,117 @@
         <text x="122" y="166" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9"/>
         <rect x="0" y="0" width="196.5" height="170" rx="4" ry="4" stroke="rgb(0%,0%,0%)" fill="none"/>
       </g>
+      <g id="model_tugas3/Rangkaian Soal A/_uniq_id_14" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill,stroke">
+        <title id="title.model_tugas3/Rangkaian Soal A/_uniq_id_14"/>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M355,510 L380,510"/>
+        </g>
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,400,540)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="nonzero" d="M0,0 L-8,-4 L-8,4 L0,0z "/>
+        </g>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M380,510 L380,540 L392,540"/>
+        </g>
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,400,480)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="nonzero" d="M0,0 L-8,-4 L-8,4 L0,0z "/>
+        </g>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M380,510 L380,480 L392,480"/>
+        </g>
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,380,510)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M2,0 C2,1.10457 1.10457,2 0,2 C-1.10457,2 -2,1.10457 -2,0 C-2,-1.10457 -1.10457,-2 0,-2 C1.10457,-2 2,-1.10457 2,0 z "/>
+        </g>
+      </g>
+      <g id="prop.model_tugas3/Rangkaian Soal A/_uniq_id_15" class="proptable" display="none" pointer-events="none" extent_Height="170" extent_Width="196.5" preferred_X="5" preferred_Y="5">
+        <rect x="0" y="0" width="196.5" height="170" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
+        <text x="3" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLogging</text>
+        <text x="122" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">0</text>
+        <rect x="0" y="15" width="196.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <text x="3" y="26" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingNameMode</text>
+        <text x="122" y="26" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">Use signal name</text>
+        <text x="3" y="40" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">UserSpecifiedLogName</text>
+        <text x="122" y="40" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9"/>
+        <rect x="0" y="43" width="196.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <text x="3" y="54" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingDecimateData</text>
+        <text x="122" y="54" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">0</text>
+        <text x="3" y="68" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingDecimation</text>
+        <text x="122" y="68" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">2</text>
+        <rect x="0" y="71" width="196.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <text x="3" y="82" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingLimitDataPoints</text>
+        <text x="122" y="82" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">0</text>
+        <text x="3" y="96" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingMaxPoints</text>
+        <text x="122" y="96" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">5000</text>
+        <rect x="0" y="99" width="196.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <text x="3" y="110" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">TestPoint</text>
+        <text x="122" y="110" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">0</text>
+        <text x="3" y="124" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">SignalPropagation</text>
+        <text x="122" y="124" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">off</text>
+        <rect x="0" y="127" width="196.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <text x="3" y="138" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">MustResolveToSignalObject</text>
+        <text x="122" y="138" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">0</text>
+        <text x="3" y="152" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">StorageClass</text>
+        <text x="122" y="152" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">Auto</text>
+        <rect x="0" y="155" width="196.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <text x="3" y="166" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">RTWStorageTypeQualifier</text>
+        <text x="122" y="166" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9"/>
+        <rect x="0" y="0" width="196.5" height="170" rx="4" ry="4" stroke="rgb(0%,0%,0%)" fill="none"/>
+      </g>
+      <g id="model_tugas3/Rangkaian Soal A/_uniq_id_15" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill,stroke">
+        <title id="title.model_tugas3/Rangkaian Soal A/_uniq_id_15"/>
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,1145,620)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="nonzero" d="M0,0 L-8,-4 L-8,4 L0,0z "/>
+        </g>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M1104,600 L1104,620 L1137,620"/>
+        </g>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M1070,600 L1104,600"/>
+        </g>
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,1145,570)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="nonzero" d="M0,0 L-8,-4 L-8,4 L0,0z "/>
+        </g>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M1104,600 L1104,570 L1137,570"/>
+        </g>
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,1104,600)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M2,0 C2,1.10457 1.10457,2 0,2 C-1.10457,2 -2,1.10457 -2,0 C-2,-1.10457 -1.10457,-2 0,-2 C1.10457,-2 2,-1.10457 2,0 z "/>
+        </g>
+      </g>
+      <g id="prop.model_tugas3/Rangkaian Soal A/_uniq_id_16" class="proptable" display="none" pointer-events="none" extent_Height="156" extent_Width="137.5" preferred_X="5" preferred_Y="5">
+        <rect x="0" y="0" width="137.5" height="156" rx="4" ry="4" stroke="none" fill="rgb(100%,100%,100%)"/>
+        <text x="3" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLogging</text>
+        <text x="122" y="12" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
+        <rect x="0" y="15" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <text x="3" y="26" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingNameMode</text>
+        <text x="122" y="26" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
+        <text x="3" y="40" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">UserSpecifiedLogName</text>
+        <text x="122" y="40" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9"/>
+        <rect x="0" y="43" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <text x="3" y="54" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingDecimateData</text>
+        <text x="122" y="54" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
+        <text x="3" y="68" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingDecimation</text>
+        <text x="122" y="68" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9"/>
+        <rect x="0" y="71" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <text x="3" y="82" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingLimitDataPoints</text>
+        <text x="122" y="82" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
+        <text x="3" y="96" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">DataLoggingMaxPoints</text>
+        <text x="122" y="96" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9"/>
+        <rect x="0" y="99" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <text x="3" y="110" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">TestPoint</text>
+        <text x="122" y="110" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
+        <text x="3" y="124" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">SignalPropagation</text>
+        <text x="122" y="124" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
+        <rect x="0" y="127" width="137.5" height="14" stroke="none" fill="rgb(90.2%,90.2%,90.2%)"/>
+        <text x="3" y="138" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">MustResolveToSignalObject</text>
+        <text x="122" y="138" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
+        <text x="3" y="152" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">StorageClass</text>
+        <text x="122" y="152" fill="rgb(0%,0%,0%)" stroke="none" font-family="Helvetica" font-size="9">[ ]</text>
+        <rect x="0" y="0" width="137.5" height="156" rx="4" ry="4" stroke="rgb(0%,0%,0%)" fill="none"/>
+      </g>
       <g id="model_tugas3/Rangkaian Soal A/_uniq_id_16" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill,stroke">
         <title id="title.model_tugas3/Rangkaian Soal A/_uniq_id_16"/>
-        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,570,60)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="nonzero" d="M0,0 L-8,-4 L-8,4 L0,0z "/>
-        </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M529,95 L529,60 L562,60"/>
-        </g>
-        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,570,120)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="nonzero" d="M0,0 L-8,-4 L-8,4 L0,0z "/>
-        </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M529,95 L529,120 L562,120"/>
-        </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M500,95 L529,95"/>
-        </g>
-        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,529,95)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M2,0 C2,1.10457 1.10457,2 0,2 C-1.10457,2 -2,1.10457 -2,0 C-2,-1.10457 -1.10457,-2 0,-2 C1.10457,-2 2,-1.10457 2,0 z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M1169,320 L1188,320 L1188,340 L1206,340"/>
         </g>
       </g>
       <g id="prop.model_tugas3/Rangkaian Soal A/_uniq_id_17" class="proptable" display="none" pointer-events="none" extent_Height="170" extent_Width="196.5" preferred_X="5" preferred_Y="5">
@@ -4661,22 +4682,22 @@
       </g>
       <g id="model_tugas3/Rangkaian Soal A/_uniq_id_17" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill,stroke">
         <title id="title.model_tugas3/Rangkaian Soal A/_uniq_id_17"/>
-        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,1145,570)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,1300,300)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="nonzero" d="M0,0 L-8,-4 L-8,4 L0,0z "/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M1104,600 L1104,570 L1137,570"/>
+          <path vector-effect="none" fill-rule="evenodd" d="M1273,340 L1273,300 L1292,300"/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M1070,600 L1104,600"/>
+          <path vector-effect="none" fill-rule="evenodd" d="M1245,340 L1273,340"/>
         </g>
-        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,1145,620)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,1300,355)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="nonzero" d="M0,0 L-8,-4 L-8,4 L0,0z "/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M1104,600 L1104,620 L1137,620"/>
+          <path vector-effect="none" fill-rule="evenodd" d="M1273,340 L1273,355 L1292,355"/>
         </g>
-        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,1104,600)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,1273,340)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M2,0 C2,1.10457 1.10457,2 0,2 C-1.10457,2 -2,1.10457 -2,0 C-2,-1.10457 -1.10457,-2 0,-2 C1.10457,-2 2,-1.10457 2,0 z "/>
         </g>
       </g>
@@ -4716,22 +4737,22 @@
       </g>
       <g id="model_tugas3/Rangkaian Soal A/_uniq_id_18" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill,stroke">
         <title id="title.model_tugas3/Rangkaian Soal A/_uniq_id_18"/>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M1245,340 L1273,340"/>
-        </g>
-        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,1300,355)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,780,370)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="nonzero" d="M0,0 L-8,-4 L-8,4 L0,0z "/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M1273,340 L1273,355 L1292,355"/>
+          <path vector-effect="none" fill-rule="evenodd" d="M759,395 L759,370 L772,370"/>
         </g>
-        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,1300,300)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M720,395 L759,395"/>
+        </g>
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,780,420)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="nonzero" d="M0,0 L-8,-4 L-8,4 L0,0z "/>
         </g>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M1273,340 L1273,300 L1292,300"/>
+          <path vector-effect="none" fill-rule="evenodd" d="M759,395 L759,420 L772,420"/>
         </g>
-        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,1273,340)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,759,395)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
           <path vector-effect="none" fill-rule="evenodd" d="M2,0 C2,1.10457 1.10457,2 0,2 C-1.10457,2 -2,1.10457 -2,0 C-2,-1.10457 -1.10457,-2 0,-2 C1.10457,-2 2,-1.10457 2,0 z "/>
         </g>
       </g>
@@ -4769,16 +4790,7 @@
       <g id="model_tugas3/Rangkaian Soal A/_uniq_id_19" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill,stroke">
         <title id="title.model_tugas3/Rangkaian Soal A/_uniq_id_19"/>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M743,195 L757,195"/>
-        </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M663,195 L743,195"/>
-        </g>
-        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M772,300 L743,300 L743,195"/>
-        </g>
-        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,743,195)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M2,0 C2,1.10457 1.10457,2 0,2 C-1.10457,2 -2,1.10457 -2,0 C-2,-1.10457 -1.10457,-2 0,-2 C1.10457,-2 2,-1.10457 2,0 z "/>
+          <path vector-effect="none" fill-rule="evenodd" d="M824,310 L848,310 L848,335 L876,335"/>
         </g>
       </g>
       <g id="prop.model_tugas3/Rangkaian Soal A/_uniq_id_20" class="proptable" display="none" pointer-events="none" extent_Height="156" extent_Width="137.5" preferred_X="5" preferred_Y="5">
@@ -4815,7 +4827,16 @@
       <g id="model_tugas3/Rangkaian Soal A/_uniq_id_20" linkid="" onmouseover="showPropAndHighlight(evt)" onmouseout="hidePropAndUnhighlight(evt)" onclick="changeSys(evt)" highlight="fill,stroke">
         <title id="title.model_tugas3/Rangkaian Soal A/_uniq_id_20"/>
         <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
-          <path vector-effect="none" fill-rule="evenodd" d="M279,445 L305,445 L305,510 L316,510"/>
+          <path vector-effect="none" fill-rule="evenodd" d="M273,425 L300,425 L300,310"/>
+        </g>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M288,310 L300,310"/>
+        </g>
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M300,310 L337,310"/>
+        </g>
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,300,310)" font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal">
+          <path vector-effect="none" fill-rule="evenodd" d="M2,0 C2,1.10457 1.10457,2 0,2 C-1.10457,2 -2,1.10457 -2,0 C-2,-1.10457 -1.10457,-2 0,-2 C1.10457,-2 2,-1.10457 2,0 z "/>
         </g>
       </g>
     </g>
